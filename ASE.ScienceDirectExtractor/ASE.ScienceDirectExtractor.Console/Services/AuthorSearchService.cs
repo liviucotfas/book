@@ -6,7 +6,7 @@ using Newtonsoft.Json;
 
 namespace ASE.ScienceDirectExtractor.Console.Services
 {
-    public class AuthorSearchService
+    public class AuthorSearchService : IAuthorSearchService
     {
         private readonly string _elsevierApiKey;
 

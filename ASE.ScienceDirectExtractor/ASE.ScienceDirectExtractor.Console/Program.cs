@@ -47,7 +47,7 @@ namespace ASE.ScienceDirectExtractor.Console
 				var authorDictionary = new Dictionary<string, AuthorEx>();
 				var authorRelationDictionary = new List<AuthorRelation>();
 
-				//1478
+				//TODO Remove harcoded value
 				for (var entryNumber = 0; entryNumber < 1478; entryNumber = entryNumber + 25)
 				{
 					System.Console.WriteLine("start={0}&count={1}", entryNumber, 25);

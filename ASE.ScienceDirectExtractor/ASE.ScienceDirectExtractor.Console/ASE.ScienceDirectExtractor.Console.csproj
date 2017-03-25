@@ -60,10 +60,13 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Services\AuthorSearchService.cs" />
+    <Compile Include="Services\IAuthorSearchService.cs" />
+    <Compile Include="Services\IPublicationSearchService.cs" />
     <Compile Include="Services\PublicationSearchService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="ClassDiagram.cd" />
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

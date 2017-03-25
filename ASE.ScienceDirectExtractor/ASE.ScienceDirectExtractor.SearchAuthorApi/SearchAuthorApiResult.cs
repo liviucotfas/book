@@ -7,6 +7,7 @@ namespace ASE.ScienceDirectExtractor.SearchAuthorApi
         [JsonProperty("search-results")]
         public SearchResults SearchResults { get; set; }
     }
+
     public class SearchResults
     {
         public string opensearchtotalResults { get; set; }
