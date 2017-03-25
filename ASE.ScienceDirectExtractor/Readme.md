@@ -1,1 +1,1 @@
-Descrierea API-urilor utilizate este detaliata la adresa https://dev.elsevier.com/api_docs.html.
+﻿Descrierea API-urilor utilizate este disponibilă la adresa https://dev.elsevier.com/api_docs.html.
