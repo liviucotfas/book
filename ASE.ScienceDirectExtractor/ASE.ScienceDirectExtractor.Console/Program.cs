@@ -17,20 +17,24 @@ namespace ASE.ScienceDirectExtractor.Console
 	{
 		private static void Main()
 		{
+			//Settings
+			const string keyWords = "social+media";
+			const string authorsFile = "authors.csv";
+			const string publicationsFile = "publications.csv";
+			const string authorRealtionsFile = "authorRelations.csv";
+
 			//AutoMapper Configuration
 			AutoMapper.Mapper.CreateMap<Entry, Publication>();
 
-			//d9b97555b047a53c88bee0480dffc619
-			//ed8c0431fc17c1553bc48fc094671d26
-
-
-			Task.Run(async () => { await FetchToCSVAsync(); }).Wait();
+			//Start the task
+			Task.Run(async () =>
+			{
+				await FetchToCSVAsync(keyWords, authorsFile, publicationsFile, authorRealtionsFile);
+			}).Wait();
 		}
 
-		private static async Task FetchToCSVAsync()
+		private static async Task FetchToCSVAsync(string keyWords, string authorsFile, string publicationsFile, string authorRealtionsFile)
 		{
-			var keyWord = "social+media";
-
 			var authorSearchService = new AuthorSearchService(Settings.Default.ElsevierAPIKey);
 			var publicationsSearchService = new PublicationSearchService(Settings.Default.ElsevierAPIKey);
 
@@ -48,7 +52,7 @@ namespace ASE.ScienceDirectExtractor.Console
 				{
 					System.Console.WriteLine("start={0}&count={1}", entryNumber, 25);
 
-					var publicationApiList = (await publicationsSearchService.GetPublicationsAsync(keyWord,entryNumber)).searchresults.entry;
+					var publicationApiList = (await publicationsSearchService.GetPublicationsAsync(keyWords, entryNumber)).searchresults.entry;
 
 					foreach (var publicationApi in publicationApiList)
 					{
@@ -159,7 +163,7 @@ namespace ASE.ScienceDirectExtractor.Console
 					}
 				}
 
-				using (var w = new StreamWriter("papers.csv"))
+				using (var w = new StreamWriter(publicationsFile))
 				{
 					int papersWithoutAuthors = 0;
 
@@ -189,8 +193,7 @@ namespace ASE.ScienceDirectExtractor.Console
 					System.Console.WriteLine("Papers without authors: " + papersWithoutAuthors);
 				}
 
-
-				using (var w = new StreamWriter("authors.csv"))
+				using (var w = new StreamWriter(authorsFile))
 				{
 					//Write the CSV Header
 					var line = "Id,Label,AnPrimaPub,weight,Time Interval,AnUltimaPub,PublicationCountElsevier,PublicationCountScopus,affiliationid,affiliationname,affiliationcity,affiliationcountry";
@@ -281,7 +284,7 @@ namespace ASE.ScienceDirectExtractor.Console
 					}
 				}
 
-				using (var w = new StreamWriter("authorRelations.csv"))
+				using (var w = new StreamWriter(authorRealtionsFile))
                 {
                     var line = "Source,Target,Type,Id,Label,Weight,AnPrimaLegatura,AnUltimaLegatura,Time Interval,SameAffiliationCity";
                     w.WriteLine(line);
