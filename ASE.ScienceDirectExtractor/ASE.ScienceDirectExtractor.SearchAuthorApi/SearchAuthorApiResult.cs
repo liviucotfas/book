@@ -1,13 +1,11 @@
 ﻿using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
 
 namespace ASE.ScienceDirectExtractor.SearchAuthorApi
 {
-
-    public class SearchAuthorApiResult
+	public class SearchAuthorApiResult
     {
         [JsonProperty("search-results")]
-        public SearchResults searchresults { get; set; }
+        public SearchResults SearchResults { get; set; }
     }
     public class SearchResults
     {

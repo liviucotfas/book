@@ -33,7 +33,7 @@ namespace ASE.ScienceDirectExtractor.Console
 			}).Wait();
 		}
 
-		private static async Task FetchToCSVAsync(string keyWords, string authorsFile, string publicationsFile, string authorRealtionsFile)
+		private static async Task FetchToCSVAsync(string keyWords, string authorsFile, string publicationsFile, string authorRelationsFile)
 		{
 			var authorSearchService = new AuthorSearchService(Settings.Default.ElsevierAPIKey);
 			var publicationsSearchService = new PublicationSearchService(Settings.Default.ElsevierAPIKey);
@@ -52,7 +52,7 @@ namespace ASE.ScienceDirectExtractor.Console
 				{
 					System.Console.WriteLine("start={0}&count={1}", entryNumber, 25);
 
-					var publicationApiList = (await publicationsSearchService.GetPublicationsAsync(keyWords, entryNumber)).searchresults.entry;
+					var publicationApiList = (await publicationsSearchService.GetPublicationsAsync(keyWords, entryNumber)).SearchResults.entry;
 
 					foreach (var publicationApi in publicationApiList)
 					{
@@ -84,9 +84,9 @@ namespace ASE.ScienceDirectExtractor.Console
 										
 									}
 
-									if (searchAuthorResult?.searchresults != null && searchAuthorResult.searchresults.entry != null)
+									if (searchAuthorResult?.SearchResults != null && searchAuthorResult.SearchResults.entry != null)
 									{
-										var firstAuthorMatch = searchAuthorResult.searchresults.entry.FirstOrDefault();
+										var firstAuthorMatch = searchAuthorResult.SearchResults.entry.FirstOrDefault();
 
 										authorEx = new AuthorEx(authorId, authorApi.givenname, authorApi.surname, firstAuthorMatch);
 										authorId++;
@@ -284,7 +284,7 @@ namespace ASE.ScienceDirectExtractor.Console
 					}
 				}
 
-				using (var w = new StreamWriter(authorRealtionsFile))
+				using (var w = new StreamWriter(authorRelationsFile))
                 {
                     var line = "Source,Target,Type,Id,Label,Weight,AnPrimaLegatura,AnUltimaLegatura,Time Interval,SameAffiliationCity";
                     w.WriteLine(line);

@@ -6,7 +6,7 @@ namespace ASE.ScienceDirectExtractor.ElsevierSearchApi
     public class ScienceDirectSearchResult
     {
         [JsonProperty("search-results")]
-        public SearchResults searchresults { get; set; }
+        public SearchResults SearchResults { get; set; }
     }
 
     public class SearchResults
