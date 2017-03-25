@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ASE.ScienceDirectExtractor.Console.Services.AuthorSearchService" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Services\AuthorSearchService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.Console.Services.PublicationSearchService" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\PublicationSearchService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="ASE.ScienceDirectExtractor.Console.Services.IAuthorSearchService">
+    <Position X="3.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Services\IAuthorSearchService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ASE.ScienceDirectExtractor.Console.Services.IPublicationSearchService">
+    <Position X="5.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IPublicationSearchService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
