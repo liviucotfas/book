@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.ScienceDirectSearchResult" Collapsed="true">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.SearchResults" Collapsed="true">
+    <Position X="4.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAgAAAAAAAAAgACAAAAAAAAAAAAAAAAAAEEA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.OpensearchQuery" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.Link" Collapsed="true">
+    <Position X="0.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAAAAAAAAAAAAAAAAAAAABAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.Entry" Collapsed="true">
+    <Position X="4.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACGIIACAUBEkggMAAAAAAAAAgCoAAAAgQACAQIAAAGA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.Authors" Collapsed="true">
+    <Position X="2.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.Author" Collapsed="true">
+    <Position X="0.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.Link1" Collapsed="true">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ASE.ScienceDirectExtractor.ElsevierSearchApi.PrismCoverdate" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>ScienceDirectSearchResult.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
