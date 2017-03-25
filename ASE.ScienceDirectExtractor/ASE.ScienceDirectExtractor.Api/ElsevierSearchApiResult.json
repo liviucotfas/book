@@ -1,0 +1,1746 @@
+﻿{
+  "search-results": {
+    "opensearch:totalResults": "1501",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "keywords%28social+media%29",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@href": "http://api.elsevier.com:80/content/search/scidir?start=0&count=25&query=keywords%28social+media%29&view=COMPLETE",
+        "@ref": "self",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@href": "http://api.elsevier.com:80/content/search/scidir?start=0&count=25&query=keywords%28social+media%29&view=COMPLETE",
+        "@ref": "first",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@href": "http://api.elsevier.com:80/content/search/scidir?start=25&count=25&query=keywords%28social+media%29&view=COMPLETE",
+        "@ref": "next",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@href": "http://api.elsevier.com:80/content/search/scidir?start=1476&count=25&query=keywords%28social+media%29&view=COMPLETE",
+        "@ref": "last",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215001788",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215001788",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84924857289",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.02.057",
+        "eid": "1-s2.0-S0747563215001788",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215001788",
+        "dc:title": "College students’ academic motivation, media engagement and fear of missing out",
+        "dc:creator": "Dorit, Alt",
+        "dc:description": "Abstract The concerns about the consequences of mental problems related to use of social media among university students have recently raised consciousness about a relatively new phenomenon termed Fear of Missing Out (FoMO). Drawing on the self-determination theory and on the assumption that low levels of basic need satisfaction may relate to FoMO and social media engagement, the aim of the present research was to examine for the first time possible links between FoMO, social media engagement, and three motivational constructs: Intrinsic, extrinsic and amotivation for learning. Data were gathered from 296 undergraduate students by using the following scales: Social Media Engagement (SME), Fear of Missing Out (FoMOs) and Academic Motivation. The SME is a new scale, specifically designed for this study to measure the extent to which students used social media in the classroom. This scale includes three categories: Social engagement, news information engagement and commercial information engagement. Path analysis results indicated that the positive links between social media engagement and two motivational factors: Extrinsic and amotivation for learning are more likely to be mediated by FoMO. Interpretation of these results, their congruence within the context of the theoretical frameworks and practical implications are discussed.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "111",
+        "prism:endingPage": "119",
+        "prism:doi": "10.1016/j.chb.2015.02.057",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00178-8",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Dorit",
+              "surname": "Alt"
+            }
+          ]
+        },
+        "authkeywords": "Fear of missing out | Social media engagement | Self-determination theory | Academic motivation | Higher education",
+        "scopus-id": "84924857289",
+        "scopus-eid": "2-s2.0-84924857289",
+        "prism:teaser": "The concerns about the consequences of mental problems related to use of social media among university students have recently raised consciousness about a relatively new phenomenon termed Fear of Missing..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215000618",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215000618",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84924902722",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.01.047",
+        "eid": "1-s2.0-S0747563215000618",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215000618",
+        "dc:title": "Early school leavers’ attitudes towards online self-presentation and explicit participation",
+        "dc:creator": "P.B.F., Moekotte",
+        "dc:description": "Abstract Active participation in economic and social settings increasingly demands social–communicative skills, i.e., interactive and interpersonal skills, as well as the networking skills to access and use resources provided by online social networks. The development of these skills both depends upon and determines the proficient and strategic use of social media and explicit participation in different types of formal or informal networks and communities. Low-educated early school leavers typically lack the access, awareness and attitude required to develop these skills, suggesting a widening digital divide or participation gap. This study presents results regarding low-educated early school leavers’ attitudes towards social media and social networks as a factor that can influence the conditions and opportunities that determine or enhance their economic and social mobility and improvement. The data were analyzed by means of 12 cases. Looking beneath the surface of a complex compound problem involving cultural, social and attitudinal factors, we found signs of ambivalence or even conflict in attitudes, stemming from personal doubts and insecurities or contextual fears and restraints. These attitudinal thresholds should be overcome by aiding and supporting these young people as much as possible in gaining leverage in the online world of ‘haves and have nots’.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "171",
+        "prism:endingPage": "184",
+        "prism:doi": "10.1016/j.chb.2015.01.047",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00061-8",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "P.B.F.",
+              "surname": "Moekotte"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "S.",
+              "surname": "Brand-Gruwel"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "H.T.M.",
+              "surname": "Ritzen"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "P. Robert Jan",
+              "surname": "Simons"
+            }
+          ]
+        },
+        "authkeywords": "Early school leavers | Social media | Selective self-presentation | Explicit participation | Sociality | Employability",
+        "scopus-id": "84924902722",
+        "scopus-eid": "2-s2.0-84924902722",
+        "prism:teaser": "Active participation in economic and social settings increasingly demands social–communicative skills, i.e., interactive and interpersonal skills, as well as the networking skills to access and use..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215002411",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215002411",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84926509481",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.03.051",
+        "eid": "1-s2.0-S0747563215002411",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215002411",
+        "dc:title": "A research on effectiveness of Facebook advertising on enhancing purchase intention of consumers",
+        "dc:creator": "Milad, Dehghani",
+        "dc:description": "Abstract The present study aimed to examine the effectiveness of advertisements in enhancing consumers’ purchasing intention on Facebook in 2013. It is an applied study in terms of its goals, and a descriptive survey one in terms of methodology. The statistical population included all undergraduate students in Cypriot universities. An 11-item researcher-made questionnaire was used to compare and analyze the effectiveness of advertisements. Data analysis was carried out using SPSS17, the parametric statistical method of t-test, and the non-parametric Friedman test. The results of the study showed that Facebook advertising significantly affected brand image and brand equity, both of which factors contributed to a significant change in purchasing intention.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "597",
+        "prism:endingPage": "600",
+        "prism:doi": "10.1016/j.chb.2015.03.051",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00241-1",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Milad",
+              "surname": "Dehghani"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Mustafa",
+              "surname": "Tumer"
+            }
+          ]
+        },
+        "authkeywords": "Facebook | Social media | Advertising | Brand equity | Brand image | Purchase intention",
+        "scopus-id": "84926509481",
+        "scopus-eid": "2-s2.0-84926509481",
+        "prism:teaser": "The present study aimed to examine the effectiveness of advertisements in enhancing consumers’ purchasing intention on Facebook in 2013. It is an applied study in terms of its goals, and a descriptive..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S074756321500182X",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S074756321500182X",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84925296702",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.02.061",
+        "eid": "1-s2.0-S074756321500182X",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S074756321500182X",
+        "dc:title": "That’s so OCD: The effects of disease trivialization via social media on user perceptions and impression formation",
+        "dc:creator": "Rachelle L., Pavelko",
+        "dc:description": "Abstract Informal discussions of mental illness take place every day in social media. In the case of obsessive–compulsive disorder (OCD), in particular, widespread use of the hashtag “#OCD” indicates that social media users often trivialize the disease. The present study used a 3×2×2 between-subjects fully factorial online experiment (N=574, recruited from Amazon’s Mechanical Turk platform) to test the impact of trivialized framing of this disease on perceptions of social media users who employ such language, as well as on perceptions of people with OCD as a group. Additionally, this study tested the effects of the gender of the Twitter avatar and self-identification in the avatar biography as an individual with OCD on these perceptions. Three-way analyses of covariance (ANCOVA) assessed the impact of the manipulations (i.e., content frame, gender of the avatar, self-identification with OCD). Results indicate that language use, gender, and self-identification influence impression formation in a social media environment.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "251",
+        "prism:endingPage": "258",
+        "prism:doi": "10.1016/j.chb.2015.02.061",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00182-X",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Rachelle L.",
+              "surname": "Pavelko"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Jessica Gall",
+              "surname": "Myrick"
+            }
+          ]
+        },
+        "authkeywords": "Obsessive–compulsive disorder | Impression formation | Social media | Gender | Computer-mediated communication",
+        "scopus-id": "84925296702",
+        "scopus-eid": "2-s2.0-84925296702",
+        "prism:teaser": "Informal discussions of mental illness take place every day in social media. In the case of obsessive–compulsive disorder (OCD), in particular, widespread use of the hashtag “#OCD” indicates that social..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215001831",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215001831",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84925457659",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.02.062",
+        "eid": "1-s2.0-S0747563215001831",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215001831",
+        "dc:title": "Is lurking an anxiety-masking strategy on social media sites? The effects of lurking and computer anxiety on explaining information privacy concern on social media platforms",
+        "dc:creator": "Babajide, Osatuyi",
+        "dc:description": "Abstract The aggressive collection and tracking of personal information on social media continues to raise information privacy concerns, which is gaining the interest of lawmakers, organizations, researchers, and consumers. While information privacy research is mature and extensive, research on information privacy concern in the social media context is lacking. To contribute to the literature, this article presents findings from a study conducted to explain social media users’ concern for information privacy (CFSMIP). Using social penetration theory, this study explores the role of lurking, a common social media participation strategy, and computer anxiety in explaining CFSMIP. Drawing on a sample of 250 avid social media users, covariance based structural equation modeling analysis revealed a strong relationship between both lurking and computer anxiety and CFSMIP. Consistent with prior research, CFSMIP mediated the relationship between both lurking and computer anxiety and users’ future intentions to provide their personal information to online merchants. Insights from the research findings for theory and practice are discussed.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "324",
+        "prism:endingPage": "332",
+        "prism:doi": "10.1016/j.chb.2015.02.062",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00183-1",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Babajide",
+              "surname": "Osatuyi"
+            }
+          ]
+        },
+        "authkeywords": "Computer anxiety | Social media | Lurking | Privacy | Computer-mediated communication",
+        "scopus-id": "84925457659",
+        "scopus-eid": "2-s2.0-84925457659",
+        "prism:teaser": "The aggressive collection and tracking of personal information on social media continues to raise information privacy concerns, which is gaining the interest of lawmakers, organizations, researchers,..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215002216",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215002216",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84925869222",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.03.031",
+        "eid": "1-s2.0-S0747563215002216",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215002216",
+        "dc:title": "Evaluating a target on social media: From the self-categorization perspective",
+        "dc:creator": "Yi, Mou",
+        "dc:description": "Abstract The question of how impression is formed online – especially on social media – has triggered a lot of research interest. While traditional impression formation literature mainly looks at this issue from the source perspective, little attention has been paid to the viewer or audience side. The accumulation of anecdotal evidence and scientific inquiry shows us that viewer’s identity may play an important role as well. Drawing upon the self-categorization theory, this study aims to provide some insights on impression formation from a viewer perspective. An online experiment was conducted based on a 2 (microblog post topic: personal vs. professional) by 2 (fans count: few vs. many) between-subjects factorial design. Under each condition, a mock-up microblog page of a fictitious college professor (the target) was presented to two groups of respondents (in-groupers: teachers vs. out-groupers: students) before they were asked to evaluate this “professor.” The results indicated that teacher respondents and student respondents rated the likability and credibility of this target professor significantly differently as the degree of prototypicality of this target changed. Theoretical implications are discussed.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "451",
+        "prism:endingPage": "459",
+        "prism:doi": "10.1016/j.chb.2015.03.031",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00221-6",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Yi",
+              "surname": "Mou"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Mike",
+              "surname": "Miller"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Hanlong",
+              "surname": "Fu"
+            }
+          ]
+        },
+        "authkeywords": "Impression formation | Social media | Microblog | Credibility | Social attraction",
+        "scopus-id": "84925869222",
+        "scopus-eid": "2-s2.0-84925869222",
+        "prism:teaser": "The question of how impression is formed online – especially on social media – has triggered a lot of research interest. While traditional impression formation literature mainly looks at this issue..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S107158191500049X",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S107158191500049X",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84926452655",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.ijhcs.2015.03.004",
+        "eid": "1-s2.0-S107158191500049X",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S107158191500049X",
+        "dc:title": "The role of security notices and online consumer behaviour: An empirical study of social networking users",
+        "dc:creator": "Benson, Vladlena",
+        "dc:description": "Abstract This paper uses a survey of social networking users to empirically explore their perceptions of security notices – independently verified artefacts informing internet site users that security measures are taken by the site owner. We investigate such factors as purchase experience, purchase intention, risk propensity, usage of various social network categories and user victimisation. The results suggest a strong positive link between purchase intention and paying attention to security notices/features on social networks. We find that higher use of narrow-purpose social networking services has a negative association with paying attention to security notices. We also show that users with higher risk propensity pay less attention to security notices/features. Finally, we find no association between purchase experience, user victimisation and perception of security notices/features. Our results provide new, and possibly more refined, evidence of the factors that influence the attention paid to security notices/features by social media users. The results have important implications for theory development, policy and practice.",
+        "prism:publicationName": "International Journal of Human-Computer Studies",
+        "prism:issn": "10715819",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-08-01"
+          }
+        ],
+        "prism:coverDisplayDate": "August 2015",
+        "prism:startingPage": "36",
+        "prism:endingPage": "44",
+        "prism:doi": "10.1016/j.ijhcs.2015.03.004",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S1071-5819(15)00049-X",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Benson",
+              "surname": "Vladlena"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "George",
+              "surname": "Saridakis"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Hemamali",
+              "surname": "Tennakoon"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Jean Noel",
+              "surname": "Ezingeard"
+            }
+          ]
+        },
+        "authkeywords": "Social media | Security notices | Security seals | Personal information privacy | Information security | Cybercrime victimisation | Social learning",
+        "scopus-id": "84926452655",
+        "scopus-eid": "2-s2.0-84926452655",
+        "prism:teaser": "This paper uses a survey of social networking users to empirically explore their perceptions of security notices – independently verified artefacts informing internet site users that security measures..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S2352853215000231",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S2352853215000231",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930946779",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.abrep.2015.05.006",
+        "eid": "1-s2.0-S2352853215000231",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S2352853215000231",
+        "dc:title": "An exploration of online behaviors and social media use among hookah and electronic-cigarette users",
+        "dc:creator": "Alissa R., Link",
+        "dc:description": "Abstract IntroductionThe purpose of this study was to explore the relationship between social norms and attitudes towards ENDS and hookah and use of these products. MethodsWe conducted surveys with hookah and ENDS users who regularly used the Internet and social media and analyzed the primary social media account (e.g. Facebook) of each participant, coding all references to nicotine or tobacco products. The survey included domains on perceived favorability, perceived vulnerability and subjective norms. ResultsWe surveyed 21 ENDS users and 20 hookah users. Both groups used the Internet to look up information about their respective tobacco product (95% for hookah vs. 90% for ENDS). Seventy percent of hookah users had references to hookah on their social media profiles while 43% of ENDS users had references to ENDS on their page. The majority of both groups were exposed to content posted by friends in their social media network about their respective products online. Those who posted on social media about hookah and those who read about ENDS online had lower perceived vulnerability to the health risks associated with tobacco products. ConclusionsHookah and ENDS users actively use the Internet and social media to obtain and share information about nicotine/tobacco products. Study participants who use hookah were more likely to share photos and discuss hookah related activities via social media than those who use ENDS. Social networks also represent valuable and untapped potential resources for communicating with this group about risks and harm reduction related to emerging nicotine/tobacco products.",
+        "prism:publicationName": "Addictive Behaviors Reports",
+        "prism:issn": "23528532",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-12-01"
+          }
+        ],
+        "prism:coverDisplayDate": "December 2015",
+        "prism:startingPage": "37",
+        "prism:endingPage": "40",
+        "prism:doi": "10.1016/j.abrep.2015.05.006",
+        "openaccess": "1",
+        "openaccessArticle": true,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Published by Elsevier Ltd.",
+        "pii": "S2352-8532(15)00023-1",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Alissa R.",
+              "surname": "Link"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Philip B.",
+              "surname": "Cawkwell"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Donna R.",
+              "surname": "Shelley"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Scott E.",
+              "surname": "Sherman"
+            }
+          ]
+        },
+        "authkeywords": "Alternative tobacco products | Social media | Online behavior | Prevention | Behavioral | Public health",
+        "scopus-id": "84930946779",
+        "scopus-eid": "2-s2.0-84930946779",
+        "prism:teaser": "The purpose of this study was to explore the relationship between social norms and attitudes towards ENDS and hookah and use of these products...."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0148296315000235",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0148296315000235",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930927653",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.jbusres.2015.01.009",
+        "eid": "1-s2.0-S0148296315000235",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0148296315000235",
+        "dc:title": "From virtual travelers to real friends: Relationship-building insights from an online travel community",
+        "dc:creator": "Werner, Kunz",
+        "dc:description": "Abstract The growing trend of online travel communities connects travelers worldwide. This study addresses whether or not these relationships lead to offline interactions. The theoretical framework reflects cue utilization theory, social balance theory, and uncertainty reduction theory. A field experiment examines responses from 293 travel community members. Results show individual reputation, online communication, and perceived similarity among travelers play significant roles in offline relationships. Trust and sympathy among community members mediate this decision process. Study results offer several managerial implications and highlight the importance of vivid and complete participation profile in social media. Moreover, finding the right tone for effective communication in online communities is critical.",
+        "prism:publicationName": "Journal of Business Research",
+        "prism:issn": "01482963",
+        "prism:volume": "68",
+        "prism:issueIdentifier": "9",
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-09-01"
+          }
+        ],
+        "prism:coverDisplayDate": "September 2015",
+        "prism:startingPage": "1822",
+        "prism:endingPage": "1828",
+        "prism:doi": "10.1016/j.jbusres.2015.01.009",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Published by Elsevier Inc.",
+        "pii": "S0148-2963(15)00023-5",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Werner",
+              "surname": "Kunz"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Sukanya",
+              "surname": "Seshadri"
+            }
+          ]
+        },
+        "authkeywords": "Online travel community | Tourism | Social networks | Social media | Couch surfing",
+        "scopus-id": "84930927653",
+        "scopus-eid": "2-s2.0-84930927653",
+        "prism:teaser": "The growing trend of online travel communities connects travelers worldwide. This study addresses whether or not these relationships lead to offline interactions. The theoretical framework reflects..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215003040",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215003040",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928492949",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.04.017",
+        "eid": "1-s2.0-S0747563215003040",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215003040",
+        "dc:title": "Youth appropriation of social media for collaborative and facilitated design-based learning",
+        "dc:creator": "Samantha G.L., Won",
+        "dc:description": "Abstract The purpose of this paper is to report on the ways that middle school age youth in the US appropriated a social networking forum (SNF) during an afterschool integrative STEM program, Studio STEM. SNFs are a form of social media created predominantly for social interaction and maintenance of relationships. In design-based learning environments, SNFs have the potential to facilitate the documentation of the design process from collaborative idea generation through testing and refinement. These records can be accessed from anytime and anywhere with Internet access, providing opportunities for youth to draw connections between classroom and afterschool environments. Studio STEM was designed intentionally to expose youth to scientific concepts related to electrical generation and energy transformations through collaborative design of lights powered through motion. Concurrently, facilitators encouraged youth to post to the SNF, Edmodo. All posts were analyzed using the theoretical framework of connected learning in which peer and instructor interactions mediated through SNFs might enhance learning. Results indicate that youth appropriated Edmodo to connect with others, articulate knowledge, and exchange design ideas. Facilitators played a strong role in encouraging youth to persist with design refinement through the use of Edmodo. Results suggest that youth are open to using SNFs to collaborate and provide updates on design processes, which is encouraging in terms of blending formal and informal STEM learning environments with social media.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-09-01"
+          }
+        ],
+        "prism:coverDisplayDate": "September 2015",
+        "prism:startingPage": "385",
+        "prism:endingPage": "391",
+        "prism:doi": "10.1016/j.chb.2015.04.017",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00304-0",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Samantha G.L.",
+              "surname": "Won"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Michael A.",
+              "surname": "Evans"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Chelsea",
+              "surname": "Carey"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Christine G.",
+              "surname": "Schnittka"
+            }
+          ]
+        },
+        "authkeywords": "Collaborative learning | Design thinking | Facilitation strategies | Integrative STEM education | Middle school-age youth | Social media",
+        "scopus-id": "84928492949",
+        "scopus-eid": "2-s2.0-84928492949",
+        "prism:teaser": "The purpose of this paper is to report on the ways that middle school age youth in the US appropriated a social networking forum (SNF) during an afterschool integrative STEM program, Studio STEM. SNFs..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S074756321500240X",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S074756321500240X",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929075484",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.03.050",
+        "eid": "1-s2.0-S074756321500240X",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S074756321500240X",
+        "dc:title": "Too close for comfort: Attachment insecurity and electronic intrusion in college students’ dating relationships",
+        "dc:creator": "Lauren A., Reed",
+        "dc:description": "Abstract Social media has become an important context for dating relationships among young adults. This study sought to explore how the ubiquitous and public nature of social media may interact with college students’ individual characteristics to contribute to intrusiveness and invasion of privacy in dating relationships. A survey of 307 college students asked participants about their adult romantic attachment style and engagement in “electronic intrusion” (EI). EI included looking at a dating partner’s private electronic information without permission, monitoring a partner’s whereabouts using social media, and monitoring who a partner talks to or is friends with on social media. There were no gender differences in frequency of perpetrating EI. Results showed that level of attachment anxiety was positively associated with EI for women and men, and level of avoidance was negatively associated with EI for women. Results suggest that attachment style influences intrusive electronic dating behaviors, and social media may increase risk for anxiously attached college students to engage in EI for anxiety relief.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-09-01"
+          }
+        ],
+        "prism:coverDisplayDate": "September 2015",
+        "prism:startingPage": "431",
+        "prism:endingPage": "438",
+        "prism:doi": "10.1016/j.chb.2015.03.050",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00240-X",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Lauren A.",
+              "surname": "Reed"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Richard M.",
+              "surname": "Tolman"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Paige",
+              "surname": "Safyer"
+            }
+          ]
+        },
+        "authkeywords": "New media | Social media | College students | Electronic victimization | Anxiety",
+        "scopus-id": "84929075484",
+        "scopus-eid": "2-s2.0-84929075484",
+        "prism:teaser": "Social media has become an important context for dating relationships among young adults. This study sought to explore how the ubiquitous and public nature of social media may interact with college..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0363811115000041",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0363811115000041",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84924078089",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.pubrev.2015.01.002",
+        "eid": "1-s2.0-S0363811115000041",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0363811115000041",
+        "dc:title": "Parody social media accounts: Influence and impact on organizations during crisis",
+        "dc:creator": "Sarah, Wan",
+        "dc:description": "Abstract With the uptake of the use of social media, the communication field has seen a rise in a new phenomenon: parody social media accounts. Through study of five such accounts, this paper shows how parody social media accounts can arise from a crisis or paracrisis, which is “a publicly visible crisis threat” that is triggered online (Coombs & Holladay, 2012, p. 409). The study also examines the behavior of these accounts and how they enforce negative perceptions and impede an organization's efforts and initiatives. Using the social-mediated crisis communication model as its theoretical lens, this study seeks to examine parody social media accounts and their impact on organizations in times of crisis. Finally, the paper also gives recommendations on how organizations can respond effectively to these accounts.",
+        "prism:publicationName": "Public Relations Review",
+        "prism:issn": "03638111",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "3",
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-09-01"
+          }
+        ],
+        "prism:coverDisplayDate": "September 2015",
+        "prism:startingPage": "381",
+        "prism:endingPage": "385",
+        "prism:doi": "10.1016/j.pubrev.2015.01.002",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Inc. All rights reserved.",
+        "pii": "S0363-8111(15)00004-1",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Sarah",
+              "surname": "Wan"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Regina",
+              "surname": "Koh"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Andrew",
+              "surname": "Ong"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Augustine",
+              "surname": "Pang"
+            }
+          ]
+        },
+        "authkeywords": "Social media | Crisis communication | Public relations | Twitter | Facebook | Parody accounts",
+        "scopus-id": "84924078089",
+        "scopus-eid": "2-s2.0-84924078089",
+        "prism:teaser": "With the uptake of the use of social media, the communication field has seen a rise in a new phenomenon: parody social media accounts. Through study of five such accounts, this paper shows how parody..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0363811115000259",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0363811115000259",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84923542630",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.pubrev.2015.02.005",
+        "eid": "1-s2.0-S0363811115000259",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0363811115000259",
+        "dc:title": "Infusing social media with humanity: Corporate character, public engagement, and relational outcomes",
+        "dc:creator": "Linjuan Rita, Men",
+        "dc:description": "Abstract This study links the factors central to social media communications, including perceived corporate character, parasocial interaction, and community identification, to public engagement and organization–public relationships. Based on American users’ engagement behaviors on corporate Facebook pages, the study underscores the effectiveness of a personification approach in social media communication to construct an agreeable corporate character for enhancing public engagement and inducing intimate, interpersonal interactions and community identification, which in turn improves organization–public relationships.",
+        "prism:publicationName": "Public Relations Review",
+        "prism:issn": "03638111",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "3",
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-09-01"
+          }
+        ],
+        "prism:coverDisplayDate": "September 2015",
+        "prism:startingPage": "395",
+        "prism:endingPage": "403",
+        "prism:doi": "10.1016/j.pubrev.2015.02.005",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Inc. All rights reserved.",
+        "pii": "S0363-8111(15)00025-9",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Linjuan Rita",
+              "surname": "Men"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Wan-Hsiu Sunny",
+              "surname": "Tsai"
+            }
+          ]
+        },
+        "authkeywords": "Social media | Public engagement | Corporate character | Organization–public relationships | Interpersonal approach",
+        "scopus-id": "84923542630",
+        "scopus-eid": "2-s2.0-84923542630",
+        "prism:teaser": "This study links the factors central to social media communications, including perceived corporate character, parasocial interaction, and community identification, to public engagement and organization–public..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0363811115000478",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0363811115000478",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929208113",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.pubrev.2015.05.002",
+        "eid": "1-s2.0-S0363811115000478",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0363811115000478",
+        "dc:title": "The role of new public relations practitioners as social media experts",
+        "dc:creator": "Nicole, Lee",
+        "dc:description": "Abstract Social media is a prevalent part of public relations practice. Research and observation suggest young practitioners are often the ones performing social media tasks. Guided by literature on public relations roles and Millennials, this qualitative study explored whether new professionals are in fact relegated to being social media practitioners. Analysis of 20 in-depth interviews with young professionals revealed several factors, including agency billing rates and mentorship, that impact the tasks new professionals are assigned.",
+        "prism:publicationName": "Public Relations Review",
+        "prism:issn": "03638111",
+        "prism:volume": "41",
+        "prism:issueIdentifier": "3",
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-09-01"
+          }
+        ],
+        "prism:coverDisplayDate": "September 2015",
+        "prism:startingPage": "411",
+        "prism:endingPage": "413",
+        "prism:doi": "10.1016/j.pubrev.2015.05.002",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Published by Elsevier Inc.",
+        "pubType": "Research in Brief",
+        "pii": "S0363-8111(15)00047-8",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Nicole",
+              "surname": "Lee"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Bey-Ling",
+              "surname": "Sha"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "David",
+              "surname": "Dozier"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Paul",
+              "surname": "Sargent"
+            }
+          ]
+        },
+        "authkeywords": "Social media | Public relations roles | Millennials | Pigeonholing | Mentorship",
+        "scopus-id": "84929208113",
+        "scopus-eid": "2-s2.0-84929208113",
+        "prism:teaser": "Social media is a prevalent part of public relations practice. Research and observation suggest young practitioners are often the ones performing social media tasks. Guided by literature on public relations..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0306437915000654",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0306437915000654",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84933670348",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.is.2015.04.005",
+        "eid": "1-s2.0-S0306437915000654",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0306437915000654",
+        "dc:title": "Advanced topic modeling for social business intelligence",
+        "dc:creator": "Enrico, Gallinucci",
+        "dc:description": "Abstract Social business intelligence combines corporate data with user-generated content (UGC) to make decision-makers aware of the trends perceived from the environment. A key role in the analysis of textual UGC is played by topics, meant as specific concepts of interest within a subject area. To enable aggregations of topics at different levels, a topic hierarchy has to be defined. Some attempts have been made to address the peculiarities of topic hierarchies, but no comprehensive solution has been found so far. The approach we propose to model topic hierarchies in ROLAP systems is called meta-stars. Its basic idea is to use meta-modeling coupled with navigation tables and with dimension tables: navigation tables support hierarchy instances with different lengths and with non-leaf facts, and allow different roll-up semantics to be explicitly annotated; meta-modeling enables hierarchy heterogeneity and dynamics to be accommodated; dimension tables are easily integrated with standard business hierarchies. After outlining a reference architecture for social business intelligence and describing the meta-star approach, we formalize its querying expressiveness and give a cost model for the main query execution plans. Then, we evaluate meta-stars by presenting experimental results for query performances and disk space.",
+        "prism:publicationName": "Information Systems",
+        "prism:issn": "03064379",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-10-01"
+          }
+        ],
+        "prism:coverDisplayDate": "October–November 2015",
+        "prism:startingPage": "87",
+        "prism:endingPage": "106",
+        "prism:doi": "10.1016/j.is.2015.04.005",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0306-4379(15)00065-4",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Enrico",
+              "surname": "Gallinucci"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Matteo",
+              "surname": "Golfarelli"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Stefano",
+              "surname": "Rizzi"
+            }
+          ]
+        },
+        "authkeywords": "Business intelligence | Social media | User-generated content | Multidimensional modeling",
+        "scopus-id": "84933670348",
+        "scopus-eid": "2-s2.0-84933670348",
+        "prism:teaser": "Social business intelligence combines corporate data with user-generated content (UGC) to make decision-makers aware of the trends perceived from the environment. A key role in the analysis of textual..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215004537",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215004537",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84933054567",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.05.059",
+        "eid": "1-s2.0-S0747563215004537",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215004537",
+        "dc:title": "See you, see me: Teenagers’ self-disclosure and regret of posting on social network site",
+        "dc:creator": "Wenjing, Xie",
+        "dc:description": "Abstract Self-disclosure is popular on social network site (SNS). However, teenagers’ self-disclosure behavior and their regret of posting, a negative emotional experience, have been seldom studied. Using data from a nationally representative survey, this study tries to investigate teenagers’ self-disclosure and regret of posting on SNS. We further examine how demographic variables, SNS use, different types of “friends”, trust, and privacy control behavior relate to self-disclosure and regret of posting. We find that though teenagers reveal moderately high level of personal information on SNS, they do not disclose all types of personal information equally. Results also show that male and older teens disclose more personal information. Frequent SNS use, large SNS network size, and having strangers in SNS friend list increase both self-disclosure and posting regret. Setting SNS profile private is related to lower level of self-disclosure. Implications for privacy design of SNS are discussed.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "398",
+        "prism:endingPage": "407",
+        "prism:doi": "10.1016/j.chb.2015.05.059",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00453-7",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Wenjing",
+              "surname": "Xie"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Cheeyoun",
+              "surname": "Kang"
+            }
+          ]
+        },
+        "authkeywords": "Privacy | Self-disclosure | Regret | Emotion | Social network site | Social media",
+        "scopus-id": "84933054567",
+        "scopus-eid": "2-s2.0-84933054567",
+        "prism:teaser": "Self-disclosure is popular on social network site (SNS). However, teenagers’ self-disclosure behavior and their regret of posting, a negative emotional experience, have been seldom studied. Using data..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215004641",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215004641",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84933053931",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.06.024",
+        "eid": "1-s2.0-S0747563215004641",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215004641",
+        "dc:title": "Perpetuating online sexism offline: Anonymity, interactivity, and the effects of sexist hashtags on social media",
+        "dc:creator": "Jesse, Fox",
+        "dc:description": "Abstract Sexism and sexual harassment are not uncommon in online environments such as social networking sites, forums, and video games. This experiment investigated whether users’ anonymity and level of interactivity with sexist content on social media influenced sexist attitudes and offline behavior. Participants (N=172) used a Twitter account that was anonymous or had personally identifying details. They were asked to share (i.e., retweet) or write posts incorporating a sexist hashtag. After exposure, participants completed two purportedly unrelated tasks, a survey and a job hiring simulation in which they evaluated male and female candidates’ resumés. Anonymous participants reported greater hostile sexism after tweeting than nonanonymous participants. Participants who composed sexist tweets reported greater hostile sexism and ranked female job candidates as less competent than those who retweeted, although this did not significantly affect their likelihood to hire.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "436",
+        "prism:endingPage": "442",
+        "prism:doi": "10.1016/j.chb.2015.06.024",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Published by Elsevier Ltd.",
+        "pii": "S0747-5632(15)00464-1",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Jesse",
+              "surname": "Fox"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Carlos",
+              "surname": "Cruz"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Ji Young",
+              "surname": "Lee"
+            }
+          ]
+        },
+        "authkeywords": "Sexism | Social media | Anonymity | Sexist humor | Social networking sites | Online sexism",
+        "scopus-id": "84933053931",
+        "scopus-eid": "2-s2.0-84933053931",
+        "prism:teaser": "Sexism and sexual harassment are not uncommon in online environments such as social networking sites, forums, and video games. This experiment investigated whether users’ anonymity and level of interactivity..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215004720",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215004720",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934937421",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.06.032",
+        "eid": "1-s2.0-S0747563215004720",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215004720",
+        "dc:title": "What does your selfie say about you?",
+        "dc:creator": "Lin, Qiu",
+        "dc:description": "Abstract Selfies refer to self-portraits taken by oneself using a digital camera or a smartphone. They become increasingly popular in social media. However, little is known about how selfies reflect their owners’ personality traits and how people judge others’ personality from selfies. In this study, we examined the association between selfies and personality by measuring participants’ Big Five personality and coding their selfies posted on a social networking site. We found specific cues in selfies related to agreeableness, conscientiousness, neuroticism, and openness. We also examined zero-acquaintance personality judgment and found that observers had moderate to strong agreement in their ratings of Big Five personality based on selfies. However, they could only accurately predict selfie owners’ degree of openness. This study is the first to reveal personality-related cues in selfies and provide a picture-coding scheme that can be used to analyze selfies. We discussed the difference between personality expression in selfies and other types of photos, and its possible relationship with impression management of social media users.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "443",
+        "prism:endingPage": "449",
+        "prism:doi": "10.1016/j.chb.2015.06.032",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00472-0",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Lin",
+              "surname": "Qiu"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Jiahui",
+              "surname": "Lu"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Shanshan",
+              "surname": "Yang"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Weina",
+              "surname": "Qu"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Tingshao",
+              "surname": "Zhu"
+            }
+          ]
+        },
+        "authkeywords": "Selfie | Personality | Zero-acquaintance judgment | Photo | Social media",
+        "scopus-id": "84934937421",
+        "scopus-eid": "2-s2.0-84934937421",
+        "prism:teaser": "Selfies refer to self-portraits taken by oneself using a digital camera or a smartphone. They become increasingly popular in social media. However, little is known about how selfies reflect their owners’..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215004689",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215004689",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84933048451",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.06.028",
+        "eid": "1-s2.0-S0747563215004689",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215004689",
+        "dc:title": "Cyberbullying victimization: Do victims’ personality and risky social network behaviors contribute to the problem?",
+        "dc:creator": "Joy V., Peluchette",
+        "dc:description": "Abstract This study examines the impact of risky social network site practices (SNS) and individual differences in self-disclosure and personality on the likelihood of cyberbullying victimization among young adult Facebook users. Results from 572 respondents show that posting indiscreet or negative content, having Facebook friends who post such content, and number of Facebook friends were all strong predictors of cyberbullying victimization. In addition, most of the personality variables examined (conscientiousness, extroversion, agreeableness, emotional stability, self-disclosure) were significant predictors of at least some of these risky SNS practices. However, only extroversion and openness were significant predictors of cyberbullying victimization. Implications for individuals and organizations are provided.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "424",
+        "prism:endingPage": "435",
+        "prism:doi": "10.1016/j.chb.2015.06.028",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Published by Elsevier Ltd.",
+        "pii": "S0747-5632(15)00468-9",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Joy V.",
+              "surname": "Peluchette"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Katherine",
+              "surname": "Karl"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Christa",
+              "surname": "Wood"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Jennifer",
+              "surname": "Williams"
+            }
+          ]
+        },
+        "authkeywords": "Cyberbullying | Victimization | Social media",
+        "scopus-id": "84933048451",
+        "scopus-eid": "2-s2.0-84933048451",
+        "prism:teaser": "This study examines the impact of risky social network site practices (SNS) and individual differences in self-disclosure and personality on the likelihood of cyberbullying victimization among young..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215004501",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215004501",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934969413",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.06.011",
+        "eid": "1-s2.0-S0747563215004501",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215004501",
+        "dc:title": "The role of news in promoting political disagreement on social media",
+        "dc:creator": "Matthew, Barnidge",
+        "dc:description": "Abstract Determining whether and how social media networks expose individuals to political disagreement is critical to understanding how individuals experience civil society in the digital age. Recent research from the United States and Europe shows that, all else equal, heavy social media users are exposed to more political disagreement on social media than light users. The present study seeks to elaborate on these findings in the context of Colombia. In doing so, it adds depth to existing theory about social media and political disagreement by outlining a process for how social media use results in exposure to disagreement and the role played by news. Results from path analysis show that (a) news use on social media acts as a link between general use and disagreement and (b) political engagement mediates the relationship between news use and disagreement. Results are discussed in light of existing literature and possibilities for further research.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "211",
+        "prism:endingPage": "218",
+        "prism:doi": "10.1016/j.chb.2015.06.011",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00450-1",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Matthew",
+              "surname": "Barnidge"
+            }
+          ]
+        },
+        "authkeywords": "Social media | Political disagreement | News | Crosscutting exposure | Political engagement",
+        "scopus-id": "84934969413",
+        "scopus-eid": "2-s2.0-84934969413",
+        "prism:teaser": "Determining whether and how social media networks expose individuals to political disagreement is critical to understanding how individuals experience civil society in the digital age. Recent research..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215003908",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215003908",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930937957",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.05.019",
+        "eid": "1-s2.0-S0747563215003908",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215003908",
+        "dc:title": "Online cancer information seeking increases cancer worry",
+        "dc:creator": "Jiyoung, Chae",
+        "dc:description": "Abstract This study explored the effects of online cancer information seeking on cancer worry, which has been found to promote cancer screening. Although health information seeking models have used worry as a determinant of information seeking, the present study sought to demonstrate the reverse causality to show the psychological impact of the Internet in the health context. Study 1 (N=308), a cross-sectional survey, recruited U.S. participants using Amazon Mechanical Turk, a crowd-sourcing online marketplace, and detected a positive association between online cancer information seeking from professional health-related websites and cancer worry. To establish the causality, Study 2 (N=1130 at Wave 1 and 813 at Wave 2), a two-wave survey about stomach cancer in South Korea, was conducted. The results showed that online cancer information seeking from online news at Wave 1 increased cancer worry at Wave 2. Although the sources of cancer information seeking associated with cancer worry were different in Study 1 (professional health-related websites) and Study 2 (online news), the results were consistent in that each was the main source of cancer information for Study 1 and Study 2 participants, respectively. The findings suggested that online cancer information seeking from these frequently used sources can increase cancer worry, which plays a positive role in cancer prevention.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "144",
+        "prism:endingPage": "150",
+        "prism:doi": "10.1016/j.chb.2015.05.019",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00390-8",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Jiyoung",
+              "surname": "Chae"
+            }
+          ]
+        },
+        "authkeywords": "Online information seeking | Online news | Health-related websites | Social media | Cancer worry",
+        "scopus-id": "84930937957",
+        "scopus-eid": "2-s2.0-84930937957",
+        "prism:teaser": "This study explored the effects of online cancer information seeking on cancer worry, which has been found to promote cancer screening. Although health information seeking models have used worry as..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215004343",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215004343",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930943957",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.06.001",
+        "eid": "1-s2.0-S0747563215004343",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215004343",
+        "dc:title": "Emotion regulation, procrastination, and watching cat videos online: Who watches Internet cats, why, and to what effect?",
+        "dc:creator": "Jessica Gall, Myrick",
+        "dc:description": "Abstract Anecdotes abound about the frequent use of the Internet to view cat-related media. Yet, research has yet to seriously address this popular culture phenomenon rooted largely in social media platforms. It is possible that viewing of online cat media improves mood, but this activity may also foster negative outcomes linked to using the Internet for procrastination. The present survey of Internet users (N=6795) explored the correlates of viewing “Internet cats,” motivations for consuming this media, and its potential effects on users. It also tested a conceptual model predicting enjoyment as a function of the relationships between procrastination, guilt, and happiness. Results reveal significant relationships between viewing and personality types and demonstrate conceptual nuances related to the emotional benefits of watching Internet cats.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-11-01"
+          }
+        ],
+        "prism:coverDisplayDate": "November 2015",
+        "prism:startingPage": "168",
+        "prism:endingPage": "176",
+        "prism:doi": "10.1016/j.chb.2015.06.001",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00434-3",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Jessica Gall",
+              "surname": "Myrick"
+            }
+          ]
+        },
+        "authkeywords": "Internet use | Guilty pleasure | Procrastination | Enjoyment | Social media | Cats",
+        "scopus-id": "84930943957",
+        "scopus-eid": "2-s2.0-84930943957",
+        "prism:teaser": "Anecdotes abound about the frequent use of the Internet to view cat-related media. Yet, research has yet to seriously address this popular culture phenomenon rooted largely in social media platforms...."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S074756321500357X",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S074756321500357X",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929580147",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.04.061",
+        "eid": "1-s2.0-S074756321500357X",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S074756321500357X",
+        "dc:title": "Antismoking campaign videos on YouTube and audience response: Application of social media assessment metrics",
+        "dc:creator": "Jae Eun, Chung",
+        "dc:description": "Abstract An increasing number of health organizations have used online social media as channels for health promotion. Ratings and comments posted on them can provide rich information about audience reaction to health campaigns. This study took the case of an antismoking campaign posted on YouTube by the Centers for Disease Control and Prevention (CDC) and employed social media assessment metrics to examine audience comments to six campaign videos (N=1186). Results showed that positive emotions were more prevalent than negative emotions in comments. About 10% were pro-smoking comments; yet the majority were antismoking, pro-campaign comments supporting the campaign cause. Findings are discussed for their implications for health campaigns.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "51",
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-10-01"
+          }
+        ],
+        "prism:coverDisplayDate": "October 2015",
+        "prism:startingPage": "114",
+        "prism:endingPage": "121",
+        "prism:doi": "10.1016/j.chb.2015.04.061",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00357-X",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Jae Eun",
+              "surname": "Chung"
+            }
+          ]
+        },
+        "authkeywords": "Online comments | Social media | Health campaign | Antismoking | Sentiment analysis | Content analysis",
+        "scopus-id": "84929580147",
+        "scopus-eid": "2-s2.0-84929580147",
+        "prism:teaser": "An increasing number of health organizations have used online social media as channels for health promotion. Ratings and comments posted on them can provide rich information about audience reaction..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S0747563215003477",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S0747563215003477",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930006406",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.chb.2015.04.052",
+        "eid": "1-s2.0-S0747563215003477",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S0747563215003477",
+        "dc:title": "Examination of the social network sites usage patterns of pre-service teachers",
+        "dc:creator": "Polat, Sendurur",
+        "dc:description": "Abstract There are quite number of studies exploring effect of social media on academic achievement and performance. In this study, it was aimed to investigate the pattern of social network use of pre-service teachers in order to understand whether it is a “threat” on their academic achievement or the way of using social media can change this negative effect into positive. 412 pre-service teachers were asked to complete a survey with additional open-ended questions about their daily social network use. Results showed that the way of using social networks defines the benefits or harms on the academic achievement. It is also found that students are comfortable with social media when it is used as a communication tool among students and instructors.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "51",
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-10-01"
+          }
+        ],
+        "prism:coverDisplayDate": "October 2015",
+        "prism:startingPage": "188",
+        "prism:endingPage": "194",
+        "prism:doi": "10.1016/j.chb.2015.04.052",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Ltd. All rights reserved.",
+        "pii": "S0747-5632(15)00347-7",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Polat",
+              "surname": "Sendurur"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Emine",
+              "surname": "Sendurur"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Rezan",
+              "surname": "Yilmaz"
+            }
+          ]
+        },
+        "authkeywords": "Social network sites | Facebook | Education | Social media | SNS usage",
+        "scopus-id": "84930006406",
+        "scopus-eid": "2-s2.0-84930006406",
+        "prism:teaser": "There are quite number of studies exploring effect of social media on academic achievement and performance. In this study, it was aimed to investigate the pattern of social network use of pre-service..."
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/article/pii/S1096751615000196",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.sciencedirect.com/science/article/pii/S1096751615000196",
+            "@ref": "scidir"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929468348",
+            "@ref": "abstract"
+          }
+        ],
+        "dc:identifier": "DOI:10.1016/j.iheduc.2015.04.001",
+        "eid": "1-s2.0-S1096751615000196",
+        "prism:url": "http://api.elsevier.com/content/article/pii/S1096751615000196",
+        "dc:title": "Faculty and Facebook friending: Instructor–student online social communication from the professor's perspective",
+        "dc:creator": "Susan H., Sarapin",
+        "dc:description": "Abstract U.S. college faculty with Facebook profiles (N=308) were surveyed about their expectations of students' perceptions of their credibility, professionalism, and approachability in the classroom, as well as mutual connectedness with their instructors, resulting from out-of-classroom socializing with them and teacher self-disclosure on Facebook. Consistent with uses and gratifications theory, these teacher attributes made up the Professors' Expected Relationship Compensation scale (PERC), which was correlated to professors' frequency of Facebook interaction with students (r=0.41, p<0.001). Multiple regression confirmed the persistence of this large-sized effect after accounting for the influence of six other variables, including instructors' level of self-disclosure. These characteristics have been shown to relate positively to student-reported enhancements of academic outcomes and satisfaction. Faculty participation in non-academic, online interaction through Facebook shows great promise for augmenting student perceptions of their college experience and academic performance because it aligns professors' uses with students' expectations.",
+        "prism:publicationName": "The Internet and Higher Education",
+        "prism:issn": "10967516",
+        "prism:volume": null,
+        "prism:issueIdentifier": null,
+        "prism:coverDate": [
+          {
+            "@_fa": "true",
+            "$": "2015-10-01"
+          }
+        ],
+        "prism:coverDisplayDate": "October 2015",
+        "prism:startingPage": "14",
+        "prism:endingPage": "23",
+        "prism:doi": "10.1016/j.iheduc.2015.04.001",
+        "openaccess": "0",
+        "openaccessArticle": false,
+        "openArchiveArticle": false,
+        "openaccessUserLicense": null,
+        "prism:aggregationType": "Journal",
+        "prism:copyright": "Copyright © 2015 Elsevier Inc. All rights reserved.",
+        "pii": "S1096-7516(15)00019-6",
+        "authors": {
+          "author": [
+            {
+              "@_fa": "true",
+              "given-name": "Susan H.",
+              "surname": "Sarapin"
+            },
+            {
+              "@_fa": "true",
+              "given-name": "Pamela L.",
+              "surname": "Morris"
+            }
+          ]
+        },
+        "authkeywords": "Out-of-class communication | Facebook | Faculty–student interaction | Social media | Uses and gratifications | Credibility",
+        "scopus-id": "84929468348",
+        "scopus-eid": "2-s2.0-84929468348",
+        "prism:teaser": "U.S. college faculty with Facebook profiles (N=308) were surveyed about their expectations of students' perceptions of their credibility, professionalism, and approachability in the classroom, as well..."
+      }
+    ]
+  }
+}

@@ -1,0 +1,3837 @@
+﻿{
+  "search-results": {
+    "opensearch:totalResults": "8888",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "authkey%28social+media%29",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "http://api.elsevier.com:80/content/search/scopus?start=0&count=25&query=authkey%28social+media%29&view=COMPLETE",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "http://api.elsevier.com:80/content/search/scopus?start=0&count=25&query=authkey%28social+media%29&view=COMPLETE",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "http://api.elsevier.com:80/content/search/scopus?start=25&count=25&query=authkey%28social+media%29&view=COMPLETE",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "http://api.elsevier.com:80/content/search/scopus?start=4975&count=25&query=authkey%28social+media%29&view=COMPLETE",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84931291993"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84931291993?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84931291993&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84931291993&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84931291993",
+        "dc:identifier": "SCOPUS_ID:84931291993",
+        "eid": "2-s2.0-84931291993",
+        "dc:title": "From pen pals to chat rooms: the impact of social media on Middle Eastern Society",
+        "dc:creator": "Hatfield E.",
+        "prism:publicationName": "SpringerPlus",
+        "prism:eIssn": "21931801",
+        "prism:volume": "4",
+        "prism:issueIdentifier": "1",
+        "prism:coverDate": "2015-12-13",
+        "prism:coverDisplayDate": "13 December 2015",
+        "prism:doi": "10.1186/s40064-015-1033-4",
+        "dc:description": "© 2015, Hatfield and Rapson. In this article, we will discuss what is known about a surprisingly popular phenomenon in the Middle East—the use of social media to communicate. We will begin with a discussion of what “social media” sites are (sites such as Facebook, Your Middle East, YouTube, Flickr, Muslima.com, chat rooms, and instant messaging) and point out how common they are in the Middle East. Next, we will discuss the reasons why men and women are currently using Internet and social media. Finally, we will discuss what impact social media have had on politics, political dissent, education, and men’s and women’s relationships—and the impact they might be expected to have in future years. Finally, we will focus on the impact of such media on men’s and women’s relationships—including cross-gender friendships, romantic relationships, and sexual relationships.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60013791",
+            "afid": "60013791",
+            "affilname": "University of Hawaii at Manoa",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Hawaii at Manoa"
+              }
+            ],
+            "affiliation-city": "Honolulu",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7004996187",
+            "authid": "7004996187",
+            "authname": "Hatfield E.",
+            "surname": "Hatfield",
+            "given-name": "Elaine",
+            "initials": "E.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60013791"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/12800041900",
+            "authid": "12800041900",
+            "authname": "Rapson R.",
+            "surname": "Rapson",
+            "given-name": "Richard L.",
+            "initials": "R.L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60013791"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Love | Sex | Social media | The future",
+        "intid": "1536262878",
+        "article-number": "254",
+        "source-id": "21100228569"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930946779"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930946779?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930946779&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930946779&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S2352853215000231"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84930946779",
+        "dc:identifier": "SCOPUS_ID:84930946779",
+        "eid": "2-s2.0-84930946779",
+        "dc:title": "An exploration of online behaviors and social media use among hookah and electronic-cigarette users",
+        "dc:creator": "Link A.",
+        "prism:publicationName": "Addictive Behaviors Reports",
+        "prism:eIssn": "23528532",
+        "prism:volume": "2",
+        "prism:pageRange": "37-40",
+        "prism:coverDate": "2015-12-01",
+        "prism:coverDisplayDate": "December 01, 2015",
+        "prism:doi": "10.1016/j.abrep.2015.05.006",
+        "pii": "S2352853215000231",
+        "dc:description": "© 2015. Introduction: The purpose of this study was to explore the relationship between social norms and attitudes towards ENDS and hookah and use of these products. Methods: We conducted surveys with hookah and ENDS users who regularly used the Internet and social media and analyzed the primary social media account (e.g. Facebook) of each participant, coding all references to nicotine or tobacco products. The survey included domains on perceived favorability, perceived vulnerability and subjective norms. Results: We surveyed 21 ENDS users and 20 hookah users. Both groups used the Internet to look up information about their respective tobacco product (95% for hookah vs. 90% for ENDS). Seventy percent of hookah users had references to hookah on their social media profiles while 43% of ENDS users had references to ENDS on their page. The majority of both groups were exposed to content posted by friends in their social media network about their respective products online. Those who posted on social media about hookah and those who read about ENDS online had lower perceived vulnerability to the health risks associated with tobacco products. Conclusions: Hookah and ENDS users actively use the Internet and social media to obtain and share information about nicotine/tobacco products. Study participants who use hookah were more likely to share photos and discuss hookah related activities via social media than those who use ENDS. Social networks also represent valuable and untapped potential resources for communicating with this group about risks and harm reduction related to emerging nicotine/tobacco products.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60024541",
+            "afid": "60024541",
+            "affilname": "New York University School of Medicine",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "New York Univ. School of Medicine"
+              }
+            ],
+            "affiliation-city": "New York",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60024541",
+            "afid": "60024541",
+            "affilname": "New York University School of Medicine",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "New York Univ. School of Medicine"
+              }
+            ],
+            "affiliation-city": "New York",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "4"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56681816500",
+            "authid": "56681816500",
+            "authname": "Link A.",
+            "surname": "Link",
+            "given-name": "Alissa R.",
+            "initials": "A.R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60024541"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56560128600",
+            "authid": "56560128600",
+            "authname": "Cawkwell P.",
+            "surname": "Cawkwell",
+            "given-name": "Philip B.",
+            "initials": "P.B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60024541"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7004905005",
+            "authid": "7004905005",
+            "authname": "Shelley D.",
+            "surname": "Shelley",
+            "given-name": "Donna R.",
+            "initials": "D.R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60024541"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7402440465",
+            "authid": "7402440465",
+            "authname": "Sherman S.",
+            "surname": "Sherman",
+            "given-name": "Scott E.",
+            "initials": "S.E.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60024541"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Alternative tobacco products | Behavioral | Online behavior | Prevention | Public health | Social media",
+        "intid": "1786204260",
+        "source-id": "21100388400"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928382987"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928382987?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928382987&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928382987&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84928382987",
+        "dc:identifier": "SCOPUS_ID:84928382987",
+        "eid": "2-s2.0-84928382987",
+        "dc:title": "Real-time analysis application for identifying bursty local areas related to emergency topics",
+        "dc:creator": "Sakai T.",
+        "prism:publicationName": "SpringerPlus",
+        "prism:eIssn": "21931801",
+        "prism:volume": "4",
+        "prism:issueIdentifier": "1",
+        "prism:coverDate": "2015-12-01",
+        "prism:coverDisplayDate": "1 December 2015",
+        "prism:doi": "10.1186/s40064-015-0817-x",
+        "dc:description": "© 2015, Sakai and Tamura; licensee Springer. Since social media started getting more attention from users on the Internet, social media has been one of the most important information source in the world. Especially, with the increasing popularity of social media, data posted on social media sites are rapidly becoming collective intelligence, which is a term used to refer to new media that is displacing traditional media. In this paper, we focus on geotagged tweets on the Twitter site. These geotagged tweets are referred to as georeferenced documents because they include not only a short text message, but also the documents’ posting time and location. Many researchers have been tackling the development of new data mining techniques for georeferenced documents to identify and analyze emergency topics, such as natural disasters, weather, diseases, and other incidents. In particular, the utilization of geotagged tweets to identify and analyze natural disasters has received much attention from administrative agencies recently because some case studies have achieved compelling results. In this paper, we propose a novel real-time analysis application for identifying bursty local areas related to emergency topics. The aim of our new application is to provide new platforms that can identify and analyze the localities of emergency topics. The proposed application is composed of three core computational intelligence techniques: the Naive Bayes classifier technique, the spatiotemporal clustering technique, and the burst detection technique. Moreover, we have implemented two types of application interface: a Web application interface and an android application interface. To evaluate the proposed application, we have implemented a real-time weather observation system embedded the proposed application. we used actual crawling geotagged tweets posted on the Twitter site. The weather observation system successfully detected bursty local areas related to observed emergency weather topics.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60032345",
+            "afid": "60032345",
+            "affilname": "Hiroshima City University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Hiroshima City University"
+              }
+            ],
+            "affiliation-city": "Hiroshima",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56351449200",
+            "authid": "56351449200",
+            "authname": "Sakai T.",
+            "surname": "Sakai",
+            "given-name": "Tatsuhiro",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60032345"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/35513727100",
+            "authid": "35513727100",
+            "authname": "Tamura K.",
+            "surname": "Tamura",
+            "given-name": "Keiichi",
+            "initials": "K.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60032345"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Burst detection | Density-based clustering | Naive Bayes | Social media | Spatiotemporal clustering",
+        "intid": "1535778763",
+        "source-id": "21100228569"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84932651088"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84932651088?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84932651088&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84932651088&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0191886915004079"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84932651088",
+        "dc:identifier": "SCOPUS_ID:84932651088",
+        "eid": "2-s2.0-84932651088",
+        "dc:title": "Who compares and despairs? The effect of social comparison orientation on social media use and its outcomes",
+        "dc:creator": "Vogel E.",
+        "prism:publicationName": "Personality and Individual Differences",
+        "prism:issn": "01918869",
+        "prism:volume": "86",
+        "prism:pageRange": "249-256",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "November 01, 2015",
+        "prism:doi": "10.1016/j.paid.2015.06.026",
+        "pii": "S0191886915004079",
+        "dc:description": "© 2015 Elsevier Ltd. People vary in their tendencies to compare themselves to others, an individual difference variable called social comparison orientation (SCO). Social networking sites provide information about others that can be used for social comparison. The goal of the present set of studies was to explore the relationship between SCO, Facebook use, and negative psychological outcomes. Studies 1a and 1b used correlational approaches and showed that participants high (vs. low) in SCO exhibited heavier Facebook use. Study 2 used an experimental approach and revealed that participants high in SCO had poorer self-perceptions, lower self-esteem, and more negative affect balance than their low-SCO counterparts after engaging in brief social comparisons on Facebook. SCO did not have as strong or consistent effects for participants engaging in control tasks. Results are discussed in the context of extant literature and the impact of social media use on well-being.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60021624",
+            "afid": "60021624",
+            "affilname": "University of Toledo",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Toledo"
+              }
+            ],
+            "affiliation-city": "Toledo",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60013177",
+            "afid": "60013177",
+            "affilname": "Ohio State University at Newark",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "The Ohio State University at Newark"
+              }
+            ],
+            "affiliation-city": "Newark",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56697903800",
+            "authid": "56697903800",
+            "authname": "Vogel E.",
+            "surname": "Vogel",
+            "given-name": "Erin A.",
+            "initials": "E.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60021624"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/35622372400",
+            "authid": "35622372400",
+            "authname": "Rose J.",
+            "surname": "Rose",
+            "given-name": "Jason P.",
+            "initials": "J.P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60021624"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/24390936600",
+            "authid": "24390936600",
+            "authname": "Okdie B.",
+            "surname": "Okdie",
+            "given-name": "Bradley M.",
+            "initials": "B.M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60013177"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56698372900",
+            "authid": "56698372900",
+            "authname": "Eckles K.",
+            "surname": "Eckles",
+            "given-name": "Katheryn",
+            "initials": "K.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60021624"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56697985500",
+            "authid": "56697985500",
+            "authname": "Franz B.",
+            "surname": "Franz",
+            "given-name": "Brittany",
+            "initials": "B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60013177"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Facebook | Social comparison | Social media | Social networks | Well-being",
+        "intid": "36489206",
+        "source-id": "12807"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934968108"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934968108?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934968108&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934968108&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0191886915003682"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84934968108",
+        "dc:identifier": "SCOPUS_ID:84934968108",
+        "eid": "2-s2.0-84934968108",
+        "dc:title": "Facebook and self-perception: Individual susceptibility to negative social comparison on Facebook",
+        "dc:creator": "de Vries D.",
+        "prism:publicationName": "Personality and Individual Differences",
+        "prism:issn": "01918869",
+        "prism:volume": "86",
+        "prism:pageRange": "217-221",
+        "prism:coverDate": "2015-11-01",
+        "prism:coverDisplayDate": "November 01, 2015",
+        "prism:doi": "10.1016/j.paid.2015.05.029",
+        "pii": "S0191886915003682",
+        "dc:description": "© 2015 Elsevier B.V. Social network sites such as Facebook give off the impression that others are doing better than we are. As a result, the use of these sites may lead to negative social comparison (i.e., feeling like others are doing better than oneself). According to social comparison theory, such negative social comparisons are detrimental to perceptions about the self. The current study therefore investigated the indirect relationship between Facebook use and self-perceptions through negative social comparison. Because happier people process social information differently than unhappier people, we also investigated whether the relationship between Facebook use and social comparison and, as a result, self-perception, differs depending on the degree of happiness of the emerging adult. A survey among 231 emerging adults (age 18-25) showed that Facebook use was related to a greater degree of negative social comparison, which was in turn related negatively to self-perceived social competence and physical attractiveness. The indirect relationship between Facebook use and self-perception through negative social comparison was attenuated among happier individuals, as the relationship between Facebook use and negative social comparison was weaker among happier individuals. SNS use was thus negatively related to self-perception through negative social comparison, especially among unhappy individuals.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60002483",
+            "afid": "60002483",
+            "affilname": "University of Amsterdam",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Amsterdam"
+              }
+            ],
+            "affiliation-city": "Amsterdam",
+            "affiliation-country": "Netherlands"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55619434800",
+            "authid": "55619434800",
+            "authname": "de Vries D.",
+            "surname": "de Vries",
+            "given-name": "Dian A.",
+            "initials": "D.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60002483"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56708264000",
+            "authid": "56708264000",
+            "authname": "Kühne R.",
+            "surname": "Kühne",
+            "given-name": "Rinaldo",
+            "initials": "R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60002483"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Happiness | Individual differences | Self-esteem | Self-views | Social comparison | Social media | Social network sites | Well-being",
+        "intid": "2036858831",
+        "source-id": "12807"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929315860"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929315860?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929315860&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929315860&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0191886915003256"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84929315860",
+        "dc:identifier": "SCOPUS_ID:84929315860",
+        "eid": "2-s2.0-84929315860",
+        "dc:title": "Selfie posting behaviors are associated with narcissism among men",
+        "dc:creator": "Sorokowski P.",
+        "prism:publicationName": "Personality and Individual Differences",
+        "prism:issn": "01918869",
+        "prism:volume": "85",
+        "prism:pageRange": "123-127",
+        "prism:coverDate": "2015-10-01",
+        "prism:coverDisplayDate": "October 01, 2015",
+        "prism:doi": "10.1016/j.paid.2015.05.004",
+        "pii": "S0191886915003256",
+        "dc:description": "© 2015 Elsevier Ltd. Although many studies have investigated individual differences in online social networking, few have examined the recent and rapidly popularized social phenomenon of the \"selfie\" (a selfportrait photograph of oneself). In two studies with a pooled sample of 1296 men and women, we tested the prediction that individuals who score high on four narcissism sub-scales (Self-sufficiency, Vanity, Leadership, and Admiration Demand) will be more likely to post selfies to social media sites than will individuals who exhibit low narcissism. We examined three categories of selfies: own selfies; selfies with a romantic partner; and group selfies, controlling for non-selfie photographs. Women posted more selfies of all types than did men. However, women's selfie-posting behavior was generally unrelated to their narcissism scores. In contrast, men's overall narcissism scores positively predicted posting own selfies, selfies with a partner, and group selfies. Moreover, men's Vanity, Leadership, and Admiration Demand scores each independently predicted the posting of one or more types of selfies. Our findings provide the first evidence that the link between narcissism and selfie-posting behavior is comparatively weak among women than men, and provide novel insight into the social motivations and functions of online social networking.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60016147",
+            "afid": "60016147",
+            "affilname": "Uniwersytet Wroclawski",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Wroclaw"
+              }
+            ],
+            "affiliation-city": "Wroclaw",
+            "affiliation-country": "Poland"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60018353",
+            "afid": "60018353",
+            "affilname": "Technische Universitat Dresden",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Technische Universität Dresden"
+              }
+            ],
+            "affiliation-city": "Dresden",
+            "affiliation-country": "Germany"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "7"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/23098130400",
+            "authid": "23098130400",
+            "authname": "Sorokowski P.",
+            "surname": "Sorokowski",
+            "given-name": "P.",
+            "initials": "P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36669369300",
+            "authid": "36669369300",
+            "authname": "Sorokowska A.",
+            "surname": "Sorokowska",
+            "given-name": "A.",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              },
+              {
+                "@_fa": "true",
+                "$": "60018353"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36669369300",
+            "authid": "36669369300",
+            "authname": "Sorokowska A.",
+            "surname": "Sorokowska",
+            "given-name": "A.",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              },
+              {
+                "@_fa": "true",
+                "$": "60018353"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56644816600",
+            "authid": "56644816600",
+            "authname": "Oleszkiewicz A.",
+            "surname": "Oleszkiewicz",
+            "given-name": "A.",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56422175700",
+            "authid": "56422175700",
+            "authname": "Frackowiak T.",
+            "surname": "Frackowiak",
+            "given-name": "T.",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56644551000",
+            "authid": "56644551000",
+            "authname": "Huk A.",
+            "surname": "Huk",
+            "given-name": "A.",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "http://api.elsevier.com/content/author/author_id/37089331700",
+            "authid": "37089331700",
+            "authname": "Pisanski K.",
+            "surname": "Pisanski",
+            "given-name": "K.",
+            "initials": "K.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016147"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Facebook | Narcissism | Narcissistic personality inventory | Selfie | Sex differences | Social media | Social online networking",
+        "intid": "535947373",
+        "source-id": "12807"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84933670348"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84933670348?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84933670348&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84933670348&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0306437915000654"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84933670348",
+        "dc:identifier": "SCOPUS_ID:84933670348",
+        "eid": "2-s2.0-84933670348",
+        "dc:title": "Advanced topic modeling for social business intelligence",
+        "dc:creator": "Gallinucci E.",
+        "prism:publicationName": "Information Systems",
+        "prism:issn": "03064379",
+        "prism:volume": "53",
+        "prism:pageRange": "87-106",
+        "prism:coverDate": "2015-10-01",
+        "prism:coverDisplayDate": "1 October 2015",
+        "prism:doi": "10.1016/j.is.2015.04.005",
+        "pii": "S0306437915000654",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. Social business intelligence combines corporate data with user-generated content (UGC) to make decision-makers aware of the trends perceived from the environment. A key role in the analysis of textual UGC is played by topics, meant as specific concepts of interest within a subject area. To enable aggregations of topics at different levels, a topic hierarchy has to be defined. Some attempts have been made to address the peculiarities of topic hierarchies, but no comprehensive solution has been found so far. The approach we propose to model topic hierarchies in ROLAP systems is called meta-stars. Its basic idea is to use meta-modeling coupled with navigation tables and with dimension tables: navigation tables support hierarchy instances with different lengths and with non-leaf facts, and allow different roll-up semantics to be explicitly annotated; meta-modeling enables hierarchy heterogeneity and dynamics to be accommodated; dimension tables are easily integrated with standard business hierarchies. After outlining a reference architecture for social business intelligence and describing the meta-star approach, we formalize its querying expressiveness and give a cost model for the main query execution plans. Then, we evaluate meta-stars by presenting experimental results for query performances and disk space.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60028218",
+            "afid": "60028218",
+            "affilname": "Alma Mater Studiorum Universita di Bologna",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Bologna"
+              }
+            ],
+            "affiliation-city": "Bologna",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55949131000",
+            "authid": "55949131000",
+            "authname": "Gallinucci E.",
+            "surname": "Gallinucci",
+            "given-name": "Enrico",
+            "initials": "E.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028218"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/6602888121",
+            "authid": "6602888121",
+            "authname": "Golfarelli M.",
+            "surname": "Golfarelli",
+            "given-name": "Matteo",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028218"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7005314544",
+            "authid": "7005314544",
+            "authname": "Rizzi S.",
+            "surname": "Rizzi",
+            "given-name": "Stefano",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60028218"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Business intelligence | Multidimensional modeling | Social media | User-generated content",
+        "intid": "36662590",
+        "source-id": "12305"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928399762"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928399762?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928399762&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928399762&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215003076"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84928399762",
+        "dc:identifier": "SCOPUS_ID:84928399762",
+        "eid": "2-s2.0-84928399762",
+        "dc:title": "Communicating on Twitter during a disaster: An analysis of tweets during Typhoon Haiyan in the Philippines",
+        "dc:creator": "Takahashi B.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "50",
+        "prism:pageRange": "392-398",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1016/j.chb.2015.04.020",
+        "pii": "S0747563215003076",
+        "dc:description": "© 2015 Elsevier Ltd. Social media in crisis situations, such as natural disasters, have been recognized by scholars and practitioners as key communication channels that can complement traditional channels. However, there is limited empirical examination from the user perspective of the functions that social media play and the factors that explain such uses. In this study we examine Twitter use during and after Typhoon Haiyan pummeled the Philippines. We tested a typology of Twitter use based on previous research, and explored external factors - time of use and geographic location - and internal factors - type of stakeholders (e.g. ordinary citizens, journalists, etc.) and social media engagement - to predict these uses. The results showed that different stakeholders used social media mostly for dissemination of second-hand information, in coordinating relief efforts, and in memorializing those affected. Recommendations for future research and applications in future crises are also presented.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60031707",
+            "afid": "60031707",
+            "affilname": "Michigan State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Michigan State University"
+              }
+            ],
+            "affiliation-city": "East Lansing",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60005510",
+            "afid": "60005510",
+            "affilname": "Nanyang Technological University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Nanyang Technological University"
+              }
+            ],
+            "affiliation-city": "Singapore City",
+            "affiliation-country": "Singapore"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60031707",
+            "afid": "60031707",
+            "affilname": "Michigan State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Michigan State University"
+              }
+            ],
+            "affiliation-city": "East Lansing",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/35071846800",
+            "authid": "35071846800",
+            "authname": "Takahashi B.",
+            "surname": "Takahashi",
+            "given-name": "Bruno",
+            "initials": "B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031707"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/35751674400",
+            "authid": "35751674400",
+            "authname": "Tandoc E.",
+            "surname": "Tandoc",
+            "given-name": "Edson C.",
+            "initials": "E.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60005510"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56414363800",
+            "authid": "56414363800",
+            "authname": "Carmichael C.",
+            "surname": "Carmichael",
+            "given-name": "Christine",
+            "initials": "C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031707"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Content analysis | Crisis | Natural disasters | Social media | Twitter",
+        "intid": "35778673",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929075484"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929075484?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929075484&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929075484&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S074756321500240X"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84929075484",
+        "dc:identifier": "SCOPUS_ID:84929075484",
+        "eid": "2-s2.0-84929075484",
+        "dc:title": "Too close for comfort: Attachment insecurity and electronic intrusion in college students' dating relationships",
+        "dc:creator": "Reed L.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "50",
+        "prism:pageRange": "431-438",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1016/j.chb.2015.03.050",
+        "pii": "S074756321500240X",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. Social media has become an important context for dating relationships among young adults. This study sought to explore how the ubiquitous and public nature of social media may interact with college students' individual characteristics to contribute to intrusiveness and invasion of privacy in dating relationships. A survey of 307 college students asked participants about their adult romantic attachment style and engagement in \"electronic intrusion\" (EI). EI included looking at a dating partner's private electronic information without permission, monitoring a partner's whereabouts using social media, and monitoring who a partner talks to or is friends with on social media. There were no gender differences in frequency of perpetrating EI. Results showed that level of attachment anxiety was positively associated with EI for women and men, and level of avoidance was negatively associated with EI for women. Results suggest that attachment style influences intrusive electronic dating behaviors, and social media may increase risk for anxiously attached college students to engage in EI for anxiety relief.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60001115",
+            "afid": "60001115",
+            "affilname": "University of Michigan",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Michigan"
+              }
+            ],
+            "affiliation-city": "Ann Arbor",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60001115",
+            "afid": "60001115",
+            "affilname": "University of Michigan",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Michigan"
+              }
+            ],
+            "affiliation-city": "Ann Arbor",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56446398500",
+            "authid": "56446398500",
+            "authname": "Reed L.",
+            "surname": "Reed",
+            "given-name": "Lauren A.",
+            "initials": "L.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60001115"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7004976614",
+            "authid": "7004976614",
+            "authname": "Tolman R.",
+            "surname": "Tolman",
+            "given-name": "Richard M.",
+            "initials": "R.M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60001115"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55520908300",
+            "authid": "55520908300",
+            "authname": "Safyer P.",
+            "surname": "Safyer",
+            "given-name": "Paige",
+            "initials": "P.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60001115"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Anxiety | College students | Electronic victimization | New media | Social media",
+        "intid": "1535900662",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934768535"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934768535?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934768535&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934768535&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0143622815001502"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84934768535",
+        "dc:identifier": "SCOPUS_ID:84934768535",
+        "eid": "2-s2.0-84934768535",
+        "dc:title": "Mapping the popularity of urban restaurants using social media data",
+        "dc:creator": "Zhai S.",
+        "prism:publicationName": "Applied Geography",
+        "prism:issn": "01436228",
+        "prism:volume": "63",
+        "prism:pageRange": "113-120",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "September 01, 2015",
+        "prism:doi": "10.1016/j.apgeog.2015.06.006",
+        "pii": "S0143622815001502",
+        "dc:description": "© 2015 Elsevier Ltd. Nowadays, geographers show growing interest in providing location-based services for urban residents. It is of great practical significance to screen and recommend the most popular restaurants to consumers, as dining is important to every urban dweller. Consumer review website (CRW) has emerged as an active social media platform in catering industry. This paper demonstrated how to quantify the popularity of urban restaurants (PUR) by using CRW, namely, Dianping.com. An applied popularity index (PI) was developed to quantify PUR, based on the consumer review scores (food, service, and decoration) and physical data (evaluation frequency and restaurant grade) for 8259 restaurants within the Hangzhou city, China. All the information, together with the geographic location data, was harvested from the corresponding Application Programming Interface (API) platform. PUR was then mapped by using a geographic information system (GIS). Results showed that restaurants of high popularity were generally concentrated in old urban districts, whereas those in new urban districts presented low popularity. The kernel density distribution of PI also highlighted the geography that the PI values declined from the central city toward the outskirts. Locational associations between PUR and urban functional units (bank, shopping mall, school, cinema, hotel, bar, and scenic spot) generally presented a similar tendency. Restaurants with high PI values were in high proximity to urban functional units, whereas those with low PI values were located far away from other functional units. It implied that restaurants with high popularity tended to be located in high mixture with urban functional units. Although we used Dianping.com to perform the analysis, the presented methodology can be extended to other types of CRWs. Our study is believed to provide new insights into applied geographic sciences.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60025761",
+            "afid": "60025761",
+            "affilname": "Huazhong University of Science and Technology",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Huazhong Univ. of Sci. and Technol."
+              }
+            ],
+            "affiliation-city": "Wuhan",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60025761",
+            "afid": "60025761",
+            "affilname": "Huazhong University of Science and Technology",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Huazhong Univ. of Sci. and Technol."
+              }
+            ],
+            "affiliation-city": "Wuhan",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/100406728",
+            "afid": "100406728",
+            "affilname": "Jinzhong University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Jinzhong University"
+              }
+            ],
+            "affiliation-city": "Jinzhong",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "11"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56706946900",
+            "authid": "56706946900",
+            "authname": "Zhai S.",
+            "surname": "Zhai",
+            "given-name": "Shixiao",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56706946900",
+            "authid": "56706946900",
+            "authname": "Zhai S.",
+            "surname": "Zhai",
+            "given-name": "Shixiao",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56706621600",
+            "authid": "56706621600",
+            "authname": "Xu X.",
+            "surname": "Xu",
+            "given-name": "Xiaolin",
+            "initials": "X.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56706621600",
+            "authid": "56706621600",
+            "authname": "Xu X.",
+            "surname": "Xu",
+            "given-name": "Xiaolin",
+            "initials": "X.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56706620900",
+            "authid": "56706620900",
+            "authname": "Yang L.",
+            "surname": "Yang",
+            "given-name": "Lanrong",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56706620900",
+            "authid": "56706620900",
+            "authname": "Yang L.",
+            "surname": "Yang",
+            "given-name": "Lanrong",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56606545700",
+            "authid": "56606545700",
+            "authname": "Zhou M.",
+            "surname": "Zhou",
+            "given-name": "Min",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56606545700",
+            "authid": "56606545700",
+            "authname": "Zhou M.",
+            "surname": "Zhou",
+            "given-name": "Min",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56606778100",
+            "authid": "56606778100",
+            "authname": "Zhang L.",
+            "surname": "Zhang",
+            "given-name": "Lu",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56606778100",
+            "authid": "56606778100",
+            "authname": "Zhang L.",
+            "surname": "Zhang",
+            "given-name": "Lu",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              },
+              {
+                "@_fa": "true",
+                "$": "60025761"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56625566300",
+            "authid": "56625566300",
+            "authname": "Qiu B.",
+            "surname": "Qiu",
+            "given-name": "Bingkui",
+            "initials": "B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "100406728"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "GIS | Local moran's I | Restaurant reviews | Social media | Spatial analysis",
+        "intid": "1536845191",
+        "source-id": "27471"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928492949"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928492949?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928492949&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928492949&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215003040"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84928492949",
+        "dc:identifier": "SCOPUS_ID:84928492949",
+        "eid": "2-s2.0-84928492949",
+        "dc:title": "Youth appropriation of social media for collaborative and facilitated design-based learning",
+        "dc:creator": "Won S.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "50",
+        "prism:pageRange": "385-391",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1016/j.chb.2015.04.017",
+        "pii": "S0747563215003040",
+        "dc:description": "© 2015 Published by Elsevier Ltd. The purpose of this paper is to report on the ways that middle school age youth in the US appropriated a social networking forum (SNF) during an afterschool integrative STEM program, [The STEM Club]. SNFs are a form of social media created predominantly for social interaction and maintenance of relationships. In design-based learning environments, SNFs have the potential to facilitate the documentation of the design process from collaborative idea generation through testing and refinement. These records can be accessed from anytime and anywhere with Internet access, providing opportunities for youth to draw connections between classroom and afterschool environments. [The STEM Club] was designed intentionally to expose youth to scientific concepts related to electrical generation and energy transformations through collaborative design of lights powered through motion. Concurrently, facilitators encouraged youth to post to the SNF, Edmodo. All posts were analyzed using the theoretical framework of connected learning in which peer and instructor interactions mediated through SNFs might enhance learning. Results indicate that youth appropriated Edmodo to connect with others, articulate knowledge, and exchange design ideas. Facilitators played a strong role in encouraging youth to persist with design refinement through the use of Edmodo. Results suggest that youth are open to using SNFs to collaborate and provide updates on design processes, which is encouraging in terms of blending formal and informal STEM learning environments with social media.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "afid": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Virginia Polytechnic Institute and State University"
+              }
+            ],
+            "affiliation-city": "Blacksburg",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60004923",
+            "afid": "60004923",
+            "affilname": "North Carolina State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "North Carolina State University"
+              }
+            ],
+            "affiliation-city": "Raleigh",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60027090",
+            "afid": "60027090",
+            "affilname": "Virginia Polytechnic Institute and State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Virginia Polytechnic Institute and State University"
+              }
+            ],
+            "affiliation-city": "Blacksburg",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60011754",
+            "afid": "60011754",
+            "affilname": "Auburn University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Auburn Univ"
+              }
+            ],
+            "affiliation-city": "Auburn",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "4"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55858992300",
+            "authid": "55858992300",
+            "authname": "Won S.",
+            "surname": "Won",
+            "given-name": "Samantha G L",
+            "initials": "S.G.L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027090"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55727614400",
+            "authid": "55727614400",
+            "authname": "Evans M.",
+            "surname": "Evans",
+            "given-name": "Michael A.",
+            "initials": "M.A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60004923"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56605943500",
+            "authid": "56605943500",
+            "authname": "Carey C.",
+            "surname": "Carey",
+            "given-name": "Chelsea",
+            "initials": "C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027090"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/23009728800",
+            "authid": "23009728800",
+            "authname": "Schnittka C.",
+            "surname": "Schnittka",
+            "given-name": "Christine G.",
+            "initials": "C.G.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60011754"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Collaborative learning | Design thinking | Facilitation strategies | Integrative STEM education | Middle school-age youth | Social media",
+        "intid": "1035788869",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928895881"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928895881?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928895881&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928895881&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215003179"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84928895881",
+        "dc:identifier": "SCOPUS_ID:84928895881",
+        "eid": "2-s2.0-84928895881",
+        "dc:title": "Predictors of honesty, intent, and valence of Facebook self-disclosure",
+        "dc:creator": "Hollenbaugh E.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "50",
+        "prism:pageRange": "456-464",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1016/j.chb.2015.04.030",
+        "pii": "S0747563215003179",
+        "dc:description": "This study applies the uses and gratifications theory (U&G) to examine self-disclosive behavior on Facebook. Using a convenience sample of 301 Facebook users, path analyses were conducted to determine how individual factors, social cohesion, and motives affect the honesty, valence, and intent of self-disclosure. Results showed that U&G provided a useful model for exploring the relationships among study variables. Facebook users motivated by relationship maintenance were generally more honest, intentional, and positive than others. Higher self-esteem was related to more positive self-disclosure, as well. Conversely, participants motivated to use Facebook for virtual community and companionship disclosed the most dishonest, unintentional, and negative information. These and other direct and indirect predictors of self-disclosure are discussed in light of the existing literature on Facebook self-disclosure.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60029653",
+            "afid": "60029653",
+            "affilname": "Kent State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Kent State University"
+              }
+            ],
+            "affiliation-city": "Kent",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60032143",
+            "afid": "60032143",
+            "affilname": "University of Akron",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Univ of Akron"
+              }
+            ],
+            "affiliation-city": "Akron",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36162976000",
+            "authid": "36162976000",
+            "authname": "Hollenbaugh E.",
+            "surname": "Hollenbaugh",
+            "given-name": "Erin E.",
+            "initials": "E.E.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60029653"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55839599700",
+            "authid": "55839599700",
+            "authname": "Ferris A.",
+            "surname": "Ferris",
+            "given-name": "Amber L.",
+            "initials": "A.L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60032143"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Computer-mediated communication | Facebook | Motives | Self-disclosure | Social media | Uses and gratifications",
+        "intid": "2035855877",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928891381"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928891381?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928891381&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928891381&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215002988"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84928891381",
+        "dc:identifier": "SCOPUS_ID:84928891381",
+        "eid": "2-s2.0-84928891381",
+        "dc:title": "Tweeting Taksim communication power and social media advocacy in the Taksim square protests",
+        "dc:creator": "Smith B.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "50",
+        "prism:pageRange": "499-507",
+        "prism:coverDate": "2015-09-01",
+        "prism:coverDisplayDate": "1 September 2015",
+        "prism:doi": "10.1016/j.chb.2015.04.012",
+        "pii": "S0747563215002988",
+        "dc:description": "© 2015 Elsevier Ltd. The extent to which social media empower individuals represents a fruitful yet untapped area of communication research. This study explores the phenomenon whereby individuals exert their influence and seek change in a particular case of social media engagement - the Taksim Square protests in Turkey in 2013. Building from literatures in social media engagement and empowerment, and using Bandura's theory of self-efficacy, we content analyzed 770 Taksim-related messages on Twitter. Results suggest that efforts to seek change in social media are realized through information dissemination more than through calls to action and social organization. Namely, social media users seek influence through vicarious experience - representation of the experience of others - than direct personal experience. From these findings, we argue that social media is used to effect change from a distance, and that content ownership and online reputation are driving forces of online participation in an issue.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60009254",
+            "afid": "60009254",
+            "affilname": "Purdue University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Purdue University"
+              }
+            ],
+            "affiliation-city": "West Lafayette",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60017536",
+            "afid": "60017536",
+            "affilname": "Southern Methodist University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Southern Methodist University"
+              }
+            ],
+            "affiliation-city": "Dallas",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60009254",
+            "afid": "60009254",
+            "affilname": "Purdue University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Purdue University"
+              }
+            ],
+            "affiliation-city": "West Lafayette",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55476105900",
+            "authid": "55476105900",
+            "authname": "Smith B.",
+            "surname": "Smith",
+            "given-name": "Brian G.",
+            "initials": "B.G.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60009254"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56622820100",
+            "authid": "56622820100",
+            "authname": "Men R.",
+            "surname": "Men",
+            "given-name": "Rita Linjuan",
+            "initials": "R.L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60017536"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56622996700",
+            "authid": "56622996700",
+            "authname": "Al-Sinan R.",
+            "surname": "Al-Sinan",
+            "given-name": "Reham",
+            "initials": "R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60009254"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Activism | Empowerment | Internet-Content analysis | Social media",
+        "intid": "35862913",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84926509481"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84926509481?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84926509481&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84926509481&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215002411"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84926509481",
+        "dc:identifier": "SCOPUS_ID:84926509481",
+        "eid": "2-s2.0-84926509481",
+        "dc:title": "A research on effectiveness of Facebook advertising on enhancing purchase intention of consumers",
+        "dc:creator": "Dehghani M.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "49",
+        "prism:pageRange": "597-600",
+        "prism:coverDate": "2015-08-01",
+        "prism:coverDisplayDate": "1 August 2015",
+        "prism:doi": "10.1016/j.chb.2015.03.051",
+        "pii": "S0747563215002411",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. The present study aimed to examine the effectiveness of advertisements in enhancing consumers' purchasing intention on Facebook in 2013. It is an applied study in terms of its goals, and a descriptive survey one in terms of methodology. The statistical population included all undergraduate students in Cypriot universities. An 11-item researcher-made questionnaire was used to compare and analyze the effectiveness of advertisements. Data analysis was carried out using SPSS17, the parametric statistical method of t-test, and the non-parametric Friedman test. The results of the study showed that Facebook advertising significantly affected brand image and brand equity, both of which factors contributed to a significant change in purchasing intention.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60032350",
+            "afid": "60032350",
+            "affilname": "Universita degli Studi di Roma La Sapienza",
+            "affiliation-city": "Rome",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56583745200",
+            "authid": "56583745200",
+            "authname": "Dehghani M.",
+            "surname": "Dehghani",
+            "given-name": "Milad",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60032350"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56448590800",
+            "authid": "56448590800",
+            "authname": "Tumer M.",
+            "surname": "Tumer",
+            "given-name": "Mustafa",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60032350"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Advertising | Brand equity | Brand image | Facebook | Purchase intention | Social media",
+        "intid": "535455851",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84926452655"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84926452655?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84926452655&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84926452655&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S107158191500049X"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84926452655",
+        "dc:identifier": "SCOPUS_ID:84926452655",
+        "eid": "2-s2.0-84926452655",
+        "dc:title": "The role of security notices and online consumer behaviour: An empirical study of social networking users",
+        "dc:creator": "Vladlena B.",
+        "prism:publicationName": "International Journal of Human Computer Studies",
+        "prism:issn": "10715819",
+        "prism:eIssn": "10959300",
+        "prism:volume": "80",
+        "prism:pageRange": "36-44",
+        "prism:coverDate": "2015-08-01",
+        "prism:coverDisplayDate": "1 August 2015",
+        "prism:doi": "10.1016/j.ijhcs.2015.03.004",
+        "pii": "S107158191500049X",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. Abstract This paper uses a survey of social networking users to empirically explore their perceptions of security notices - independently verified artefacts informing internet site users that security measures are taken by the site owner. We investigate such factors as purchase experience, purchase intention, risk propensity, usage of various social network categories and user victimisation. The results suggest a strong positive link between purchase intention and paying attention to security notices/features on social networks. We find that higher use of narrow-purpose social networking services has a negative association with paying attention to security notices. We also show that users with higher risk propensity pay less attention to security notices/features. Finally, we find no association between purchase experience, user victimisation and perception of security notices/features. Our results provide new, and possibly more refined, evidence of the factors that influence the attention paid to security notices/features by social media users. The results have important implications for theory development, policy and practice.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60033359",
+            "afid": "60033359",
+            "affilname": "Kingston University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Kingston University"
+              }
+            ],
+            "affiliation-city": "Surrey",
+            "affiliation-country": "United Kingdom"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/113455830",
+            "afid": "113455830",
+            "affilname": "Asia Pacific Institute of Information Technology",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Asia Pacific Institute of Information Technology"
+              }
+            ],
+            "affiliation-city": "Colombo",
+            "affiliation-country": "Sri Lanka"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60022046",
+            "afid": "60022046",
+            "affilname": "Manchester Metropolitan University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Manchester Metropolitan University"
+              }
+            ],
+            "affiliation-city": "Manchester",
+            "affiliation-country": "United Kingdom"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "4"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56584534000",
+            "authid": "56584534000",
+            "authname": "Vladlena B.",
+            "surname": "Vladlena",
+            "given-name": "Benson",
+            "initials": "B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60033359"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/22938623700",
+            "authid": "22938623700",
+            "authname": "Saridakis G.",
+            "surname": "Saridakis",
+            "given-name": "George",
+            "initials": "G.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60033359"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/55830039100",
+            "authid": "55830039100",
+            "authname": "Tennakoon H.",
+            "surname": "Tennakoon",
+            "given-name": "Hemamali",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "113455830"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/6603336778",
+            "authid": "6603336778",
+            "authname": "Ezingeard J.",
+            "surname": "Ezingeard",
+            "given-name": "Jean Noel",
+            "initials": "J.N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60022046"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Cybercrime victimisation | Information security | Personal information privacy | Security notices | Security seals | Social learning | Social media",
+        "intid": "1035450551",
+        "article-number": "1949",
+        "source-id": "12960"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929145299"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929145299?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929145299&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929145299&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0268401215000377"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84929145299",
+        "dc:identifier": "SCOPUS_ID:84929145299",
+        "eid": "2-s2.0-84929145299",
+        "dc:title": "Extracting and evaluating conversational patterns in social media: A socio-semantic analysis of customers' reactions to the launch of new products using Twitter streams",
+        "dc:creator": "Lipizzi C.",
+        "prism:publicationName": "International Journal of Information Management",
+        "prism:issn": "02684012",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "490-503",
+        "prism:coverDate": "2015-08-01",
+        "prism:coverDisplayDate": "1 August 2015",
+        "prism:doi": "10.1016/j.ijinfomgt.2015.04.001",
+        "pii": "S0268401215000377",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. In this paper we use Twitter data to assess customers early reactions to the launch of two new products by Apple and Samsung by analyzing the streams generated in a 72 h window around the two events. We present a methodology based on conversational analysis to extract concept maps from Twitter streams and use semantic and topological metrics to compare the conversations. Our findings show that there are significant differences in the structural patterns of the two conversations and that the analysis of these differences can be highly informative about early customers perceptions and value judgments associated with the competing products.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60027392",
+            "afid": "60027392",
+            "affilname": "Stevens Institute of Technology",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Stevens Inst of Technology"
+              }
+            ],
+            "affiliation-city": "Hoboken",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60017293",
+            "afid": "60017293",
+            "affilname": "Universita degli Studi di Napoli Federico II",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Naples Federico II"
+              }
+            ],
+            "affiliation-city": "Naples",
+            "affiliation-country": "Italy"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/100849670",
+            "afid": "100849670",
+            "affilname": "Graduate School",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Graduate School"
+              }
+            ],
+            "affiliation-city": "Guadalajara",
+            "affiliation-country": "Mexico"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56641865100",
+            "authid": "56641865100",
+            "authname": "Lipizzi C.",
+            "surname": "Lipizzi",
+            "given-name": "Carlo",
+            "initials": "C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027392"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/6505601934",
+            "authid": "6505601934",
+            "authname": "Iandoli L.",
+            "surname": "Iandoli",
+            "given-name": "Luca",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027392"
+              },
+              {
+                "@_fa": "true",
+                "$": "60017293"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/6505601934",
+            "authid": "6505601934",
+            "authname": "Iandoli L.",
+            "surname": "Iandoli",
+            "given-name": "Luca",
+            "initials": "L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027392"
+              },
+              {
+                "@_fa": "true",
+                "$": "60017293"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/6506312498",
+            "authid": "6506312498",
+            "authname": "Ramirez Marquez J.",
+            "surname": "Ramirez Marquez",
+            "given-name": "José Emmanuel",
+            "initials": "J.E.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027392"
+              },
+              {
+                "@_fa": "true",
+                "$": "100849670"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/6506312498",
+            "authid": "6506312498",
+            "authname": "Ramirez Marquez J.",
+            "surname": "Ramirez Marquez",
+            "given-name": "José Emmanuel",
+            "initials": "J.E.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027392"
+              },
+              {
+                "@_fa": "true",
+                "$": "100849670"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Actionable intelligence | Competitive analysis | Competitive intelligence | Competitor intelligence | Consumer electronics industry | Content analysis | Social media | Text mining | Twitter Case study",
+        "intid": "1035912664",
+        "source-id": "15631"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934875258"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84934875258?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84934875258&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84934875258&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0278431915000791"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84934875258",
+        "dc:identifier": "SCOPUS_ID:84934875258",
+        "eid": "2-s2.0-84934875258",
+        "dc:title": "Effects of social media on firm value for U.S. restaurant companies",
+        "dc:creator": "Kim S.",
+        "prism:publicationName": "International Journal of Hospitality Management",
+        "prism:issn": "02784319",
+        "prism:volume": "49",
+        "prism:pageRange": "40-46",
+        "prism:coverDate": "2015-08-01",
+        "prism:coverDisplayDate": "August 01, 2015",
+        "prism:doi": "10.1016/j.ijhm.2015.05.006",
+        "pii": "S0278431915000791",
+        "dc:description": "© 2015 Elsevier Ltd. This study explores a relationship between a restaurant firm's social media activity and firm value. Although social media have become significant in restaurateurs' communications with existing and potential customers, the actual financial consequences thereof seem unclear, and little empirical evidence is available. This study's findings suggest a positive and linear effect of restaurant firms' activities in social media on firm value (Tobin's q) after controlling for several firm characteristics.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60031707",
+            "afid": "60031707",
+            "affilname": "Michigan State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Michigan State University"
+              }
+            ],
+            "affiliation-city": "East Lansing",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60005837",
+            "afid": "60005837",
+            "affilname": "University of Houston",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Houston"
+              }
+            ],
+            "affiliation-city": "Houston",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60001439",
+            "afid": "60001439",
+            "affilname": "Pennsylvania State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Pennsylvania State University"
+              }
+            ],
+            "affiliation-city": "State College",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "4"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/27170703000",
+            "authid": "27170703000",
+            "authname": "Kim S.",
+            "surname": "Kim",
+            "given-name": "Seunghyun",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031707"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36640132200",
+            "authid": "36640132200",
+            "authname": "Koh Y.",
+            "surname": "Koh",
+            "given-name": "Yoon",
+            "initials": "Y.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60005837"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/24175802200",
+            "authid": "24175802200",
+            "authname": "Cha J.",
+            "surname": "Cha",
+            "given-name": "Jaemin",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60031707"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/16042676100",
+            "authid": "16042676100",
+            "authname": "Lee S.",
+            "surname": "Lee",
+            "given-name": "Seoki",
+            "initials": "S.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60001439"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Firm value | Social media | U.S. restaurants",
+        "intid": "2036856327",
+        "source-id": "28686"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928806837"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84928806837?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84928806837&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84928806837&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0268401215000390"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84928806837",
+        "dc:identifier": "SCOPUS_ID:84928806837",
+        "eid": "2-s2.0-84928806837",
+        "dc:title": "How do small firms learn to develop a social media competence?",
+        "dc:creator": "Braojos-Gomez J.",
+        "prism:publicationName": "International Journal of Information Management",
+        "prism:issn": "02684012",
+        "prism:volume": "35",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "443-458",
+        "prism:coverDate": "2015-08-01",
+        "prism:coverDisplayDate": "1 August 2015",
+        "prism:doi": "10.1016/j.ijinfomgt.2015.04.003",
+        "pii": "S0268401215000390",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. Abstract Social media can be leveraged to improve the firm's business activities to create value. Because small firms have a lower portfolio of financial resources to compete more effectively in the market, social media capabilities can become more important for small than large firms. However, prior research has failed in explaining the variables through which small firms can learn to adopt social media. Our study is a first effort to address this research gap. We propose a conceptual model in which social competitor pressure, IT infrastructure capability, two organizational capabilities (marketing management and innovation management) and firm size enable small firms to learn to develop a social media competence. The model is tested using the partial least squares-based structural equation modeling technique employing a unique secondary dataset on a sample composed of the 100 small U.S. firms included in the 2013 Forbes America's Best Small Companies ranking. The empirical analysis suggests that IT infrastructure capability, social competitor pressure, marketing management and innovation management are key mechanisms through which small firms learn to develop a social media competence. The empirical analysis also suggests that social media competence is more important for the smallest manufacturing firms even among a sample of small firms.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60027844",
+            "afid": "60027844",
+            "affilname": "Universidad de Granada",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Universidad de Granada"
+              }
+            ],
+            "affiliation-city": "Granada",
+            "affiliation-country": "Spain"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56548912100",
+            "authid": "56548912100",
+            "authname": "Braojos-Gomez J.",
+            "surname": "Braojos-Gomez",
+            "given-name": "Jessica",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027844"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36008097000",
+            "authid": "36008097000",
+            "authname": "Benitez-Amado J.",
+            "surname": "Benitez-Amado",
+            "given-name": "Jose",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027844"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/16834847000",
+            "authid": "16834847000",
+            "authname": "Javier Llorens-Montes F.",
+            "surname": "Javier Llorens-Montes",
+            "given-name": "F.",
+            "initials": "F.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60027844"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Innovation management | IT infrastructure | Marketing management | Social competitor pressure | Social media competence",
+        "intid": "1785851385",
+        "article-number": "1407",
+        "source-id": "15631"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84925869222"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84925869222?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84925869222&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84925869222&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215002216"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84925869222",
+        "dc:identifier": "SCOPUS_ID:84925869222",
+        "eid": "2-s2.0-84925869222",
+        "dc:title": "Evaluating a target on social media: From the self-categorization perspective",
+        "dc:creator": "Mou Y.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "49",
+        "prism:pageRange": "451-459",
+        "prism:coverDate": "2015-08-01",
+        "prism:coverDisplayDate": "1 August 2015",
+        "prism:doi": "10.1016/j.chb.2015.03.031",
+        "pii": "S0747563215002216",
+        "dc:description": "© 2015 Elsevier Ltd.All rights reserved. The question of how impression is formed online - especially on social media - has triggered a lot of research interest. While traditional impression formation literature mainly looks at this issue from the source perspective, little attention has been paid to the viewer or audience side. The accumulation of anecdotal evidence and scientific inquiry shows us that viewer's identity may play an important role as well. Drawing upon the self-categorization theory, this study aims to provide some insights on impression formation from a viewer perspective. An online experiment was conducted based on a 2 (microblog post topic: personal vs. professional) by 2 (fans count: few vs. many) between-subjects factorial design. Under each condition, a mock-up microblog page of a fictitious college professor (the target) was presented to two groups of respondents (in-groupers: teachers vs. out-groupers: students) before they were asked to evaluate this \"professor.\" The results indicated that teacher respondents and student respondents rated the likability and credibility of this target professor significantly differently as the degree of prototypicality of this target changed. Theoretical implications are discussed.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60025084",
+            "afid": "60025084",
+            "affilname": "Shanghai Jiaotong University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Shanghai Jiaotong University"
+              }
+            ],
+            "affiliation-city": "Shanghai",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60022659",
+            "afid": "60022659",
+            "affilname": "University of Connecticut",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Connecticut"
+              }
+            ],
+            "affiliation-city": "Storrs",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/112984387",
+            "afid": "112984387",
+            "affilname": "Salem State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Salem State University"
+              }
+            ],
+            "affiliation-city": "Salem",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36705026800",
+            "authid": "36705026800",
+            "authname": "Mou Y.",
+            "surname": "Mou",
+            "given-name": "Yi",
+            "initials": "Y.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60025084"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56117245700",
+            "authid": "56117245700",
+            "authname": "Miller M.",
+            "surname": "Miller",
+            "given-name": "Mike",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60022659"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/36450670200",
+            "authid": "36450670200",
+            "authname": "Fu H.",
+            "surname": "Fu",
+            "given-name": "Hanlong",
+            "initials": "H.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "112984387"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Credibility | Impression formation | Microblog | Social attraction | Social media",
+        "intid": "1035366907",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84931957064"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84931957064?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84931957064&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84931957064&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84931957064",
+        "dc:identifier": "SCOPUS_ID:84931957064",
+        "eid": "2-s2.0-84931957064",
+        "dc:title": "Employing social media as a marketing strategy in college sport: an examination of perceived effectiveness in accomplishing organizational objectives",
+        "dc:creator": "Dixon A.",
+        "prism:publicationName": "International Review on Public and Nonprofit Marketing",
+        "prism:issn": "18651984",
+        "prism:eIssn": "18651992",
+        "prism:volume": "12",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "97-113",
+        "prism:coverDate": "2015-07-25",
+        "prism:coverDisplayDate": "25 July 2015",
+        "prism:doi": "10.1007/s12208-015-0134-7",
+        "dc:description": "© 2015, Springer-Verlag Berlin Heidelberg. With the ever evolving capabilities of integrating new media into an organization’s strategic mix, organizations, including those in sport, have found a need to employ social media as a marketing strategy. However, there continues to be concerns regarding the adoption of social media and its subsequent effectiveness and implementation. Thus, this study’s purpose was to explore the usage and perceived effectiveness of social media within intercollegiate athletics departments. Responses from 158 NCAA Division I marketing professionals were analyzed to assess social media usage and perceived effectiveness. Results suggest that most athletics departments employ social media to raise awareness and support marketing objectives, but few use it for fundraising and volunteer recruitment. Findings may assist intercollegiate athletics departments by providing evidence-based rationale to support the use of social media as an effective marketing strategy.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60000164",
+            "afid": "60000164",
+            "affilname": "Troy University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Troy University"
+              }
+            ],
+            "affiliation-city": "Troy",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60007566",
+            "afid": "60007566",
+            "affilname": "Louisiana State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Louisiana State University"
+              }
+            ],
+            "affiliation-city": "Baton Rouge",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "3"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56637698400",
+            "authid": "56637698400",
+            "authname": "Dixon A.",
+            "surname": "Dixon",
+            "given-name": "Anthony W.",
+            "initials": "A.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60000164"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56637461600",
+            "authid": "56637461600",
+            "authname": "Martinez J.",
+            "surname": "Martinez",
+            "given-name": "J. Michael",
+            "initials": "J.M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60007566"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56637437500",
+            "authid": "56637437500",
+            "authname": "Martin C.",
+            "surname": "Martin",
+            "given-name": "Christina L L",
+            "initials": "C.L.L.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60000164"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "New media | Relationship marketing | Social media | Strategic marketing",
+        "intid": "1786375523",
+        "source-id": "17500155141"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929397587"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84929397587?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84929397587&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84929397587&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84929397587",
+        "dc:identifier": "SCOPUS_ID:84929397587",
+        "eid": "2-s2.0-84929397587",
+        "dc:title": "Children’s Disaster Reactions: the Influence of Family and Social Factors",
+        "dc:creator": "Pfefferbaum B.",
+        "prism:publicationName": "Current Psychiatry Reports",
+        "prism:issn": "15233812",
+        "prism:eIssn": "15351645",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "7",
+        "prism:coverDate": "2015-07-22",
+        "prism:coverDisplayDate": "22 July 2015",
+        "prism:doi": "10.1007/s11920-015-0597-6",
+        "dc:description": "© 2015, Springer Science+Business Media New York. This review examines family (demographics, parent reactions and interactions, and parenting style) and social (remote effects, disaster media coverage, exposure to secondary adversities, and social support) factors that influence children’s disaster reactions. Lower family socioeconomic status, high parental stress, poor parental coping, contact with media coverage, and exposure to secondary adversities have been associated with adverse outcomes. Social support may provide protection to children in the post-disaster environment though more research is needed to clarify the effects of certain forms of social support. The interaction of the factors described in this review with culture needs further exploration.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60029833",
+            "afid": "60029833",
+            "affilname": "University of Oklahoma Health Sciences Center",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Univ. of Oklahoma Hlth. Sci. Center"
+              }
+            ],
+            "affiliation-city": "Oklahoma City",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60029833",
+            "afid": "60029833",
+            "affilname": "University of Oklahoma Health Sciences Center",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Univ. of Oklahoma Hlth. Sci. Center"
+              }
+            ],
+            "affiliation-city": "Oklahoma City",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60024842",
+            "afid": "60024842",
+            "affilname": "University of Missouri System",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Missouri"
+              }
+            ],
+            "affiliation-city": "Columbia",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7005152806",
+            "authid": "7005152806",
+            "authname": "Pfefferbaum B.",
+            "surname": "Pfefferbaum",
+            "given-name": "Betty",
+            "initials": "B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60029833"
+              },
+              {
+                "@_fa": "true",
+                "$": "60029833"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7005152806",
+            "authid": "7005152806",
+            "authname": "Pfefferbaum B.",
+            "surname": "Pfefferbaum",
+            "given-name": "Betty",
+            "initials": "B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60029833"
+              },
+              {
+                "@_fa": "true",
+                "$": "60029833"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/7402530831",
+            "authid": "7402530831",
+            "authname": "Jacobs A.",
+            "surname": "Jacobs",
+            "given-name": "Anne K.",
+            "initials": "A.K.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60029833"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/35272103300",
+            "authid": "35272103300",
+            "authname": "Houston J.",
+            "surname": "Houston",
+            "given-name": "J. Brian",
+            "initials": "J.B.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60024842"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56646079100",
+            "authid": "56646079100",
+            "authname": "Griffin N.",
+            "surname": "Griffin",
+            "given-name": "Natalie",
+            "initials": "N.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60029833"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Adolescents | Children | Disaster | Exposure | Family | Media | Mental health | Natural disaster | Parent | Parenting | Posttraumatic stress | Social support | Terrorism | Trauma",
+        "intid": "2035951364",
+        "article-number": "8",
+        "source-id": "15011"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930819540"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930819540?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930819540&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930819540&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84930819540",
+        "dc:identifier": "SCOPUS_ID:84930819540",
+        "eid": "2-s2.0-84930819540",
+        "dc:title": "Five-star transportation: using online activity reviews to examine mode choice to non-work destinations",
+        "dc:creator": "Mondschein A.",
+        "prism:publicationName": "Transportation",
+        "prism:issn": "00494488",
+        "prism:eIssn": "15729435",
+        "prism:volume": "42",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "707-722",
+        "prism:coverDate": "2015-07-11",
+        "prism:coverDisplayDate": "11 July 2015",
+        "prism:doi": "10.1007/s11116-015-9600-7",
+        "dc:description": "© 2015, Springer Science+Business Media New York. Information and communication technologies are generating unprecedented quantities of data with potential applications in transportation planning and research. Because of their focus on non-work activities, crowdsourced activity reviews such as Yelp reviews have the potential to inform how individuals make travel choices to a range of activities with significant economic impacts. Substantial numbers of Yelp reviews include transportation content, including mode choices. I use content analysis to extract and understand statements on mode from a dataset of more than 225,000 Yelp reviews in the Phoenix metropolitan area. Spatial analysis of the results shows that access to non-work destinations varies significantly by mode across the region and within neighborhoods. The findings address ongoing questions in accessibility research, including preferences for transit around rail stations and local variability in walking preferences. Yelp data do not replace travel surveys, but they provide significantly more information and spatial detail on mode choice to many non-work destinations. Though this and similar datasets show promise for several applications in transportation planning and research, the issues of potential sampling biases and data ownership and access must also be addressed for these data to become widespread tools for practioners and researchers.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60021918",
+            "afid": "60021918",
+            "affilname": "University of Virginia",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Virginia"
+              }
+            ],
+            "affiliation-city": "Charlottesville",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "1"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/16067212700",
+            "authid": "16067212700",
+            "authname": "Mondschein A.",
+            "surname": "Mondschein",
+            "given-name": "Andrew",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60021918"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Content analysis | Information and communication technologies | Mode choice | Non-work destinations | Social media",
+        "intid": "536185206",
+        "source-id": "20864"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930942122"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84930942122?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84930942122&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84930942122&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84930942122",
+        "dc:identifier": "SCOPUS_ID:84930942122",
+        "eid": "2-s2.0-84930942122",
+        "dc:title": "Globalization of cultural products: A webometric analysis of Kpop in Spanish-speaking countries",
+        "dc:creator": "Vargas Meza X.",
+        "prism:publicationName": "Quality and Quantity",
+        "prism:issn": "00335177",
+        "prism:eIssn": "15737845",
+        "prism:volume": "49",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "1345-1360",
+        "prism:coverDate": "2015-07-10",
+        "prism:coverDisplayDate": "10 July 2015",
+        "prism:doi": "10.1007/s11135-014-0047-2",
+        "dc:description": "© Springer Science+Business Media Dordrecht 2014. This study examines the Twitter network of Kpop diffusion in Spanish-speaking countries by addressing its communication patterns and main hubs, illustrating Kpop fans activities and relationships on Twitter. Based on NodeXL, Tweets with the hashtag “Kpop” were collected from March to August 2012 and the structural and informational patterns of social media communication were analyzed through a set of webometric methods. The results indicate that Kpop won a small but growing portion of the music preferences in Hispanic countries as a result of combined efforts of public broadcast firms and fans. The study is the first to focus on countries sharing a common language to provide a better understanding of the diffusion of cultural products through Twitter.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60001170",
+            "afid": "60001170",
+            "affilname": "Yeungnam University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Yeungnam University"
+              }
+            ],
+            "affiliation-city": "Gyeongsan",
+            "affiliation-country": "South Korea"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "2"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56682119700",
+            "authid": "56682119700",
+            "authname": "Vargas Meza X.",
+            "surname": "Vargas Meza",
+            "given-name": "Xanat",
+            "initials": "X.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60001170"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/10043514200",
+            "authid": "10043514200",
+            "authname": "Park H.",
+            "surname": "Park",
+            "given-name": "Han Woo",
+            "initials": "H.W.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60001170"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Data mining | Kpop | Social Media | Spanish-speaking countries | Twitter | Webometrics",
+        "intid": "36203319",
+        "source-id": "19372"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84935456038"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84935456038?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84935456038&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84935456038&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "http://api.elsevier.com/content/article/eid/1-s2.0-S0747563215004793"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84935456038",
+        "dc:identifier": "SCOPUS_ID:84935456038",
+        "eid": "2-s2.0-84935456038",
+        "dc:title": "Predictors of job seekers' self-disclosure on social media",
+        "dc:creator": "El Ouirdi M.",
+        "prism:publicationName": "Computers in Human Behavior",
+        "prism:issn": "07475632",
+        "prism:volume": "53",
+        "prism:pageRange": "1-12",
+        "prism:coverDate": "2015-07-06",
+        "prism:coverDisplayDate": "6 July 2015",
+        "prism:doi": "10.1016/j.chb.2015.06.039",
+        "pii": "S0747563215004793",
+        "dc:description": "© 2015 Elsevier Ltd. All rights reserved. Social media-based screening is a well-known practice to both recruiters and job seekers. Little is known, however, about how job seekers present themselves on social media, i.e. 'self-disclosure', for employment purposes. This study builds on the theories of hyperpersonal computer-mediated communication, self-efficacy and social exchange to examine job seekers' professional online image concerns, social media self-efficacy, and perceptions of social media effectiveness in the job search as predictors of inappropriate and career-oriented self-disclosures on these media. Findings from a sample of 3374 Italian respondents showed that career-oriented self-disclosure was predicted by all three factors, whereas inappropriate self-disclosure was only predicted by social media self-efficacy. Furthermore, the relationship between professional online image concerns and inappropriate self-disclosure was moderated by age, education and work experience, but not by gender. Theoretical and practical implications are discussed, and directions for future research are suggested.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60012937",
+            "afid": "60012937",
+            "affilname": "Universiteit Antwerpen",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "University of Antwerp"
+              }
+            ],
+            "affiliation-city": "Antwerpen",
+            "affiliation-country": "Belgium"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/109408356",
+            "afid": "109408356",
+            "affilname": "Antwerp Management School",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Antwerp Management School"
+              }
+            ],
+            "affiliation-city": "Antwerpen",
+            "affiliation-country": "Belgium"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60024053",
+            "afid": "60024053",
+            "affilname": "Universita Cattolica del Sacro Cuore",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Università Cattolica del Sacro Cuore"
+              }
+            ],
+            "affiliation-city": "Milan",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "author-count": {
+          "@limit": "100",
+          "$": "5"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56507388500",
+            "authid": "56507388500",
+            "authname": "El Ouirdi M.",
+            "surname": "El Ouirdi",
+            "given-name": "Mariam",
+            "initials": "M.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60012937"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/24376969400",
+            "authid": "24376969400",
+            "authname": "Segers J.",
+            "surname": "Segers",
+            "given-name": "Jesse",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60012937"
+              },
+              {
+                "@_fa": "true",
+                "$": "109408356"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/24376969400",
+            "authid": "24376969400",
+            "authname": "Segers J.",
+            "surname": "Segers",
+            "given-name": "Jesse",
+            "initials": "J.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60012937"
+              },
+              {
+                "@_fa": "true",
+                "$": "109408356"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56184108300",
+            "authid": "56184108300",
+            "authname": "El Ouirdi A.",
+            "surname": "El Ouirdi",
+            "given-name": "Asma",
+            "initials": "A.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60012937"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56711114900",
+            "authid": "56711114900",
+            "authname": "Pais I.",
+            "surname": "Pais",
+            "given-name": "Ivana",
+            "initials": "I.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60024053"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Hyperpersonal computer-mediated communication | Self-disclosure | Self-efficacy | Social exchange theory | Social media | Social recruiting",
+        "intid": "36951155",
+        "source-id": "19419"
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84935120185"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "http://api.elsevier.com/content/abstract/scopus_id/84935120185?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=84935120185&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=84935120185&origin=inward"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/abstract/scopus_id/84935120185",
+        "dc:identifier": "SCOPUS_ID:84935120185",
+        "eid": "2-s2.0-84935120185",
+        "dc:title": "Refusing to Tolerate Intolerance: An Experiment Testing the Link Between Exposure to Gay-Related Content and Resulting Attitudes and Behaviors",
+        "dc:creator": "Hefner V.",
+        "prism:publicationName": "Sexuality and Culture",
+        "prism:issn": "10955143",
+        "prism:coverDate": "2015-07-05",
+        "prism:coverDisplayDate": "5 July 2015",
+        "prism:doi": "10.1007/s12119-015-9297-y",
+        "dc:description": "© 2015 Springer Science+Business Media New York This article describes a 2 × 2 factorial design experiment with 334 undergraduates testing the influence of exposure to gay-related photographs on endorsement of tolerant gay attitudes and likelihood to interact with the photograph within a social media context. Individuals were more likely to interact with and be attitudinally influenced by pro-gay rather than anti-gay content. Prior media exposure to gay-related content was positively associated with likelihood to interact with the photographs.The experimental condition moderated this association. Our results provide support and extension for social cognitive theory, cultivation, and the heuristic processing model, as well as offer new information related to the study of social media, particularly those current conversational trends related to gay men and lesbians.",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60014935",
+            "afid": "60014935",
+            "affilname": "Georgia College & State University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Georgia College and State University"
+              }
+            ],
+            "affiliation-city": "Milledgeville",
+            "affiliation-country": "United States"
+          },
+          {
+            "@_fa": "true",
+            "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60016569",
+            "afid": "60016569",
+            "affilname": "Chapman University",
+            "name-variant": [
+              {
+                "@_fa": "true",
+                "$": "Chapman University"
+              }
+            ],
+            "affiliation-city": "Orange",
+            "affiliation-country": "United States"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ip",
+        "subtypeDescription": "Article in Press",
+        "author-count": {
+          "@limit": "100",
+          "$": "8"
+        },
+        "author": [
+          {
+            "@_fa": "true",
+            "@seq": "1",
+            "author-url": "http://api.elsevier.com/content/author/author_id/16202352300",
+            "authid": "16202352300",
+            "authname": "Hefner V.",
+            "surname": "Hefner",
+            "given-name": "Veronica",
+            "initials": "V.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60014935"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "2",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709652600",
+            "authid": "56709652600",
+            "authname": "Galaviz T.",
+            "surname": "Galaviz",
+            "given-name": "Torri",
+            "initials": "T.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "3",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709565400",
+            "authid": "56709565400",
+            "authname": "Morse V.",
+            "surname": "Morse",
+            "given-name": "Victoria",
+            "initials": "V.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "4",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709615600",
+            "authid": "56709615600",
+            "authname": "Firchau R.",
+            "surname": "Firchau",
+            "given-name": "Rachel Jean C",
+            "initials": "R.J.C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "5",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709356900",
+            "authid": "56709356900",
+            "authname": "Basile C.",
+            "surname": "Basile",
+            "given-name": "Cassi",
+            "initials": "C.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "6",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709266200",
+            "authid": "56709266200",
+            "authname": "Todd R.",
+            "surname": "Todd",
+            "given-name": "Rachel",
+            "initials": "R.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "7",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709580300",
+            "authid": "56709580300",
+            "authname": "Naude F.",
+            "surname": "Naude",
+            "given-name": "Frances",
+            "initials": "F.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          },
+          {
+            "@_fa": "true",
+            "@seq": "8",
+            "author-url": "http://api.elsevier.com/content/author/author_id/56709618800",
+            "authid": "56709618800",
+            "authname": "Nitzkowski-Bautista Z.",
+            "surname": "Nitzkowski-Bautista",
+            "given-name": "Zashya",
+            "initials": "Z.",
+            "afid": [
+              {
+                "@_fa": "true",
+                "$": "60016569"
+              }
+            ]
+          }
+        ],
+        "authkeywords": "Cultivation | Experiment | Gay | Social cognitive theory | Social media",
+        "intid": "2036884203",
+        "source-id": "145138"
+      }
+    ]
+  }
+}

@@ -1,0 +1,633 @@
+﻿{
+  "search-results": {
+    "opensearch:totalResults": "11",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "11",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "authlast%28Haenlein%29",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@href": "http://api.elsevier.com:80/content/search/author?start=0&count=25&query=authlast%28Haenlein%29",
+        "@ref": "self",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@href": "http://api.elsevier.com:80/content/search/author?start=0&count=25&query=authlast%28Haenlein%29",
+        "@ref": "first",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/6603711075",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%286603711075%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=6603711075&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=6603711075&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/6603711075",
+        "dc:identifier": "AUTHOR_ID:6603711075",
+        "eid": "9-s2.0-6603711075",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "George F W",
+          "initials": "G.F.W."
+        },
+        "name-variant": [
+          {
+            "@_fa": "true",
+            "surname": "Haenlein",
+            "initials": "G.F.W."
+          },
+          {
+            "@_fa": "true",
+            "surname": "Haenlein",
+            "given-name": "George F. W.",
+            "initials": "G.F.W."
+          }
+        ],
+        "document-count": "57",
+        "subject-area": [
+          {
+            "@abbrev": "AGRI",
+            "@force-array": "true",
+            "@frequency": "72",
+            "$": "Agricultural and Biological Sciences (all)"
+          },
+          {
+            "@abbrev": "VETE",
+            "@force-array": "true",
+            "@frequency": "43",
+            "$": "Veterinary (all)"
+          },
+          {
+            "@abbrev": "BIOC",
+            "@force-array": "true",
+            "@frequency": "14",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60023004",
+          "affiliation-id": "60023004",
+          "affiliation-name": "University of Delaware",
+          "affiliation-city": "Newark",
+          "affiliation-country": "United States"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/6602110332",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%286602110332%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=6602110332&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=6602110332&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/6602110332",
+        "dc:identifier": "AUTHOR_ID:6602110332",
+        "eid": "9-s2.0-6602110332",
+        "orcid": "0000-0001-6294-1090",
+        "preferred-name": {
+          "surname": "Alciati",
+          "given-name": "Marianne Haenlein",
+          "initials": "M.H."
+        },
+        "name-variant": [
+          {
+            "@_fa": "true",
+            "surname": "Alciati",
+            "initials": "M.H."
+          },
+          {
+            "@_fa": "true",
+            "surname": "Alciati",
+            "initials": "M.H."
+          },
+          {
+            "@_fa": "true",
+            "surname": "Haenlein",
+            "given-name": "Marianne",
+            "initials": "M."
+          }
+        ],
+        "document-count": "29",
+        "subject-area": [
+          {
+            "@abbrev": "MEDI",
+            "@force-array": "true",
+            "@frequency": "47",
+            "$": "Medicine (all)"
+          },
+          {
+            "@abbrev": "BIOC",
+            "@force-array": "true",
+            "@frequency": "9",
+            "$": "Biochemistry, Genetics and Molecular Biology (all)"
+          },
+          {
+            "@abbrev": "PSYC",
+            "@force-array": "true",
+            "@frequency": "8",
+            "$": "Psychology (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/113216181",
+          "affiliation-id": "113216181",
+          "affiliation-name": "Management Solutions for Health, Inc.",
+          "affiliation-city": "Reston",
+          "affiliation-country": "United States"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/14048474200",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%2814048474200%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=14048474200&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=14048474200&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/14048474200",
+        "dc:identifier": "AUTHOR_ID:14048474200",
+        "eid": "9-s2.0-14048474200",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "Michael",
+          "initials": "M."
+        },
+        "document-count": "26",
+        "subject-area": [
+          {
+            "@abbrev": "BUSI",
+            "@force-array": "true",
+            "@frequency": "36",
+            "$": "Business, Management and Accounting (all)"
+          },
+          {
+            "@abbrev": "ECON",
+            "@force-array": "true",
+            "@frequency": "4",
+            "$": "Economics, Econometrics and Finance (all)"
+          },
+          {
+            "@abbrev": "COMP",
+            "@force-array": "true",
+            "@frequency": "1",
+            "$": "Computer Science (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/107916738",
+          "affiliation-id": "107916738",
+          "affiliation-name": "ESCP Europe",
+          "affiliation-city": "Paris",
+          "affiliation-country": "France"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/6507420367",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%286507420367%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=6507420367&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=6507420367&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/6507420367",
+        "dc:identifier": "AUTHOR_ID:6507420367",
+        "eid": "9-s2.0-6507420367",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "P.",
+          "initials": "P."
+        },
+        "document-count": "5",
+        "subject-area": [
+          {
+            "@abbrev": "MEDI",
+            "@force-array": "true",
+            "@frequency": "8",
+            "$": "Medicine (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60031216",
+          "affiliation-id": "60031216",
+          "affiliation-name": "Johannes Gutenberg Universitat Mainz",
+          "affiliation-city": "Mainz",
+          "affiliation-country": "Germany"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/37070564600",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%2837070564600%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=37070564600&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=37070564600&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/37070564600",
+        "dc:identifier": "AUTHOR_ID:37070564600",
+        "eid": "9-s2.0-37070564600",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "Kelly",
+          "initials": "K."
+        },
+        "document-count": "4",
+        "subject-area": [
+          {
+            "@abbrev": "MEDI",
+            "@force-array": "true",
+            "@frequency": "4",
+            "$": "Medicine (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60026695",
+          "affiliation-id": "60026695",
+          "affiliation-name": "UT Southwestern Medical Center",
+          "affiliation-city": "Dallas",
+          "affiliation-country": "United States"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/55974341100",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%2855974341100%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=55974341100&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=55974341100&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/55974341100",
+        "dc:identifier": "AUTHOR_ID:55974341100",
+        "eid": "9-s2.0-55974341100",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "Cathy",
+          "initials": "C."
+        },
+        "document-count": "3",
+        "subject-area": [
+          {
+            "@abbrev": "SOCI",
+            "@force-array": "true",
+            "@frequency": "3",
+            "$": "Social Sciences (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/115060402",
+          "affiliation-id": "115060402",
+          "affiliation-name": "National Security and Resilience Studies Department",
+          "affiliation-city": null,
+          "affiliation-country": "Denmark"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/24799373900",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%2824799373900%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=24799373900&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=24799373900&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/24799373900",
+        "dc:identifier": "AUTHOR_ID:24799373900",
+        "eid": "9-s2.0-24799373900",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "A.",
+          "initials": "A."
+        },
+        "document-count": "1",
+        "subject-area": [
+          {
+            "@abbrev": "ENGI",
+            "@force-array": "true",
+            "@frequency": "2",
+            "$": "Engineering (all)"
+          }
+        ]
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/16649757500",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%2816649757500%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=16649757500&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=16649757500&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/16649757500",
+        "dc:identifier": "AUTHOR_ID:16649757500",
+        "eid": "9-s2.0-16649757500",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "E.",
+          "initials": "E."
+        },
+        "document-count": "1",
+        "subject-area": [
+          {
+            "@abbrev": "MEDI",
+            "@force-array": "true",
+            "@frequency": "1",
+            "$": "Medicine (all)"
+          }
+        ]
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/6504582018",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%286504582018%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=6504582018&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=6504582018&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/6504582018",
+        "dc:identifier": "AUTHOR_ID:6504582018",
+        "eid": "9-s2.0-6504582018",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "Hans",
+          "initials": "H."
+        },
+        "document-count": "1",
+        "subject-area": [
+          {
+            "@abbrev": "ENGI",
+            "@force-array": "true",
+            "@frequency": "2",
+            "$": "Engineering (all)"
+          },
+          {
+            "@abbrev": "COMP",
+            "@force-array": "true",
+            "@frequency": "1",
+            "$": "Computer Science (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60012197",
+          "affiliation-id": "60012197",
+          "affiliation-name": "University of Reading",
+          "affiliation-city": "Reading",
+          "affiliation-country": "United Kingdom"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/49161016200",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%2849161016200%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=49161016200&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=49161016200&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/49161016200",
+        "dc:identifier": "AUTHOR_ID:49161016200",
+        "eid": "9-s2.0-49161016200",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "Joel",
+          "initials": "J."
+        },
+        "document-count": "1",
+        "subject-area": [
+          {
+            "@abbrev": "EART",
+            "@force-array": "true",
+            "@frequency": "2",
+            "$": "Earth and Planetary Sciences (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60007776",
+          "affiliation-id": "60007776",
+          "affiliation-name": "Cornell University",
+          "affiliation-city": "Ithaca",
+          "affiliation-country": "United States"
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/author/author_id/6504527280",
+            "@ref": "self"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://api.elsevier.com/content/search/author?query=au-id%286504527280%29",
+            "@ref": "search"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/author/citedby.url?partnerID=HzOxMe3b&citedAuthorId=6504527280&origin=inward",
+            "@ref": "scopus-citedby"
+          },
+          {
+            "@_fa": "true",
+            "@href": "http://www.scopus.com/authid/detail.url?partnerID=HzOxMe3b&authorId=6504527280&origin=inward",
+            "@ref": "scopus-author"
+          }
+        ],
+        "prism:url": "http://api.elsevier.com/content/author/author_id/6504527280",
+        "dc:identifier": "AUTHOR_ID:6504527280",
+        "eid": "9-s2.0-6504527280",
+        "preferred-name": {
+          "surname": "Haenlein",
+          "given-name": "Ludwig",
+          "initials": "L."
+        },
+        "document-count": "1",
+        "subject-area": [
+          {
+            "@abbrev": "COMP",
+            "@force-array": "true",
+            "@frequency": "1",
+            "$": "Computer Science (all)"
+          },
+          {
+            "@abbrev": "ENGI",
+            "@force-array": "true",
+            "@frequency": "1",
+            "$": "Engineering (all)"
+          }
+        ],
+        "affiliation-current": {
+          "affiliation-url": "http://api.elsevier.com/content/affiliation/affiliation_id/60005830",
+          "affiliation-id": "60005830",
+          "affiliation-name": "Laboratoire d'Analyse et d'Architecture des Systemes",
+          "affiliation-city": "Toulouse",
+          "affiliation-country": "France"
+        }
+      }
+    ]
+  }
+}
