@@ -6,7 +6,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace ASE.ScienceDirectExtractor.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class AuthorSearchServiceUnitTest
     {
         [TestMethod]
         public async Task TestMethod1() 

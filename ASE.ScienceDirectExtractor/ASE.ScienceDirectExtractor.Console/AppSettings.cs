@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ASE.ScienceDirectDataExtractor.Console
+﻿namespace ASE.ScienceDirectExtractor.Console
 {
-	class AppSettings
+	internal class AppSettings
 	{
 		public static string[] SubjectCategoriesAbbrev =
 			{

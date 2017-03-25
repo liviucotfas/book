@@ -54,21 +54,26 @@
     <Compile Include="AppSettings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
     <Compile Include="Services\AuthorSearchService.cs" />
     <Compile Include="Services\PublicationSearchService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ASE.ScienceDirectExtractor.Api\ASE.ScienceDirectExtractor.ElsevierSearchApi.csproj">
       <Project>{c61774c8-a33a-43a2-bb33-23280bd1bf5b}</Project>
       <Name>ASE.ScienceDirectExtractor.ElsevierSearchApi</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ASE.ScienceDirectExtractor.Data.ScopusSearchApi\ASE.ScienceDirectExtractor.ScopusSearchApi.csproj">
-      <Project>{65b3fafb-4f3d-4524-a1a4-6ba1be99d4f5}</Project>
-      <Name>ASE.ScienceDirectExtractor.ScopusSearchApi</Name>
     </ProjectReference>
     <ProjectReference Include="..\ASE.ScienceDirectExtractor.Data\ASE.ScienceDirectExtractor.Data.csproj">
       <Project>{a4a50801-6c51-4092-b42b-f7e48ae15c83}</Project>

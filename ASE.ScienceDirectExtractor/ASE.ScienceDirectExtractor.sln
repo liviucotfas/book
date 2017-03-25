@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASE.ScienceDirectExtractor.Data", "ASE.ScienceDirectExtractor.Data\ASE.ScienceDirectExtractor.Data.csproj", "{A4A50801-6C51-4092-B42B-F7E48AE15C83}"
 EndProject
@@ -12,8 +12,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{95DBB533-56FD-44BB-A165-5907CCE2FB0A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASE.ScienceDirectExtractor.Test", "ASE.ScienceDirectExtractor.Test\ASE.ScienceDirectExtractor.Test.csproj", "{3F5E8FD8-7B02-4C6D-B9F2-64741FAD312F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASE.ScienceDirectExtractor.ScopusSearchApi", "ASE.ScienceDirectExtractor.Data.ScopusSearchApi\ASE.ScienceDirectExtractor.ScopusSearchApi.csproj", "{65B3FAFB-4F3D-4524-A1A4-6BA1BE99D4F5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASE.ScienceDirectExtractor.Console", "ASE.ScienceDirectExtractor.Console\ASE.ScienceDirectExtractor.Console.csproj", "{E358967D-1785-4C1D-AE99-B535383CD339}"
 EndProject
@@ -39,10 +37,6 @@ Global
 		{3F5E8FD8-7B02-4C6D-B9F2-64741FAD312F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F5E8FD8-7B02-4C6D-B9F2-64741FAD312F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F5E8FD8-7B02-4C6D-B9F2-64741FAD312F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65B3FAFB-4F3D-4524-A1A4-6BA1BE99D4F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65B3FAFB-4F3D-4524-A1A4-6BA1BE99D4F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65B3FAFB-4F3D-4524-A1A4-6BA1BE99D4F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65B3FAFB-4F3D-4524-A1A4-6BA1BE99D4F5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E358967D-1785-4C1D-AE99-B535383CD339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E358967D-1785-4C1D-AE99-B535383CD339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E358967D-1785-4C1D-AE99-B535383CD339}.Release|Any CPU.ActiveCfg = Release|Any CPU

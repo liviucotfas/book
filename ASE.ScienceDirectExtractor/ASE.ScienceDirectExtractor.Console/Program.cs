@@ -2,20 +2,20 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using ASE.ScienceDirectDataExtractor.Console.Services;
+using ASE.ScienceDirectExtractor.Console.Properties;
+using ASE.ScienceDirectExtractor.Console.Services;
 using ASE.ScienceDirectExtractor.Data;
 using ASE.ScienceDirectExtractor.SearchAuthorApi;
 using Newtonsoft.Json;
 using Entry = ASE.ScienceDirectExtractor.ElsevierSearchApi.Entry;
 
-namespace ASE.ScienceDirectDataExtractor.Console
+namespace ASE.ScienceDirectExtractor.Console
 {
-	class Program
+	internal class Program
 	{
-		static void Main(string[] args)
+		private static void Main()
 		{
 			//AutoMapper Configuration
 			AutoMapper.Mapper.CreateMap<Entry, Publication>();
@@ -24,13 +24,15 @@ namespace ASE.ScienceDirectDataExtractor.Console
 			//ed8c0431fc17c1553bc48fc094671d26
 
 
-			Task.Run(async () => { await FetchToCSV(); }).Wait();
+			Task.Run(async () => { await FetchToCSVAsync(); }).Wait();
 		}
 
-		static async Task FetchToCSV()
+		private static async Task FetchToCSVAsync()
 		{
-			var authorSearchService = new AuthorSearchService();
-			var publicationsSearchService = new PublicationSearchService();
+			var keyWord = "social+media";
+
+			var authorSearchService = new AuthorSearchService(Settings.Default.ElsevierAPIKey);
+			var publicationsSearchService = new PublicationSearchService(Settings.Default.ElsevierAPIKey);
 
 			try
 			{
@@ -46,7 +48,7 @@ namespace ASE.ScienceDirectDataExtractor.Console
 				{
 					System.Console.WriteLine("start={0}&count={1}", entryNumber, 25);
 
-					var publicationApiList = (await publicationsSearchService.GetPublicationsAsync(entryNumber)).searchresults.entry;
+					var publicationApiList = (await publicationsSearchService.GetPublicationsAsync(keyWord,entryNumber)).searchresults.entry;
 
 					foreach (var publicationApi in publicationApiList)
 					{
@@ -110,8 +112,8 @@ namespace ASE.ScienceDirectDataExtractor.Console
 									//Check if the edge exists
 									var authorRelation = authorRelationDictionary
 										.FirstOrDefault(
-											x => (x.Author1ID == authorTempList[i].Id && x.Author2ID == authorTempList[j].Id) ||
-												 (x.Author1ID == authorTempList[j].Id && x.Author2ID == authorTempList[i].Id));
+											x => (x.Author1Id == authorTempList[i].Id && x.Author2Id == authorTempList[j].Id) ||
+												 (x.Author1Id == authorTempList[j].Id && x.Author2Id == authorTempList[i].Id));
 
 									if (authorRelation == null)
 									{
@@ -287,13 +289,13 @@ namespace ASE.ScienceDirectDataExtractor.Console
 
                     foreach (var authorRelation in authorRelationDictionary)
                     {
-                        System.Console.WriteLine($"{authorRelation.Author1ID}\t{authorRelation.Author2ID}\t{authorRelation.Id}");
+                        System.Console.WriteLine($"{authorRelation.Author1Id}\t{authorRelation.Author2Id}\t{authorRelation.Id}");
 
                         var firstPublicationYear = authorRelation.Years.Min();
                         var lastPublicationYear = authorRelation.Years.Max();
 						
-						line = $"{authorRelation.Author1ID}," +
-                               $"{authorRelation.Author2ID}," +
+						line = $"{authorRelation.Author1Id}," +
+                               $"{authorRelation.Author2Id}," +
                                "Directed," +
                                $"{authorRelation.Id}," +
                                "," +
